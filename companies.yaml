@@ -513,3 +513,13 @@ companies:
   tenant: southstatebank, site: external}
 - {name: 'sterlingmets [workday]', platform: workday, host: sterlingmets.wd5.myworkdayjobs.com,
   tenant: sterlingmets, site: Mets}
+- {name: 'crowdstrike [workday]', platform: workday, host: crowdstrike.wd5.myworkdayjobs.com,
+  tenant: crowdstrike, site: crowdstrikecareers}
+- {name: 'itw [workday]', platform: workday, host: itw.wd5.myworkdayjobs.com, tenant: itw,
+  site: external}
+- {name: 'jainglobal [workday]', platform: workday, host: jainglobal.wd5.myworkdayjobs.com,
+  tenant: jainglobal, site: ExternalSite}
+- {name: 'smucker [workday]', platform: workday, host: smucker.wd5.myworkdayjobs.com,
+  tenant: smucker, site: US_External_Careers}
+- {name: 'vanguard [workday]', platform: workday, host: vanguard.wd5.myworkdayjobs.com,
+  tenant: vanguard, site: vanguard_external}
