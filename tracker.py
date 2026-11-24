@@ -1,9 +1,9 @@
 import json, os, re, time, requests, yaml
 from concurrent.futures import ThreadPoolExecutor
 
-WANT = re.compile(r"\bintern(ship)?\b|new grad|graduate|university|early career|entry.level|junior|residen|fellow|apprentic|pre-?doc|student researcher|co-?op|2028|2029", re.I)
+WANT = re.compile(r"\bintern(ship)?\b|new grad|graduate|university|early career|entry.level|junior|residen|fellow|apprentic|pre-?doc|student researcher|co-?op|college grad|early talent|campus|trainee|new hire|\bsde ?(i|1)\b|(engineer|developer|scientist|analyst) (i|1)\b|associate (software|data|machine|ai|ml)|2028|2029", re.I)
 SKIP = re.compile(r"senior|principal|director|manager|\blead\b|\bsr\b|staff (engineer|scientist|software|research|machine|ml)", re.I)
-ML = re.compile(r"machine learning|\bml\b|\bai\b|\bllm\b|deep learning|\bnlp\b|computer vision|data scientist|applied scientist|research scien|research engineer|forward deployed engineer|\bfde\b|\bfdse\b|deployment strateg|reinforcement learning|\bgen ?ai\b|mlops|cuda|inference|robotics|perception|speech|foundation model|software|\bswe\b|\bsde\b|full.?stack|back.?end|front.?end|data engineer|platform|infrastructure|systems engineer|site reliability|\bsre\b|devops|security engineer|mobile|android|\bios\b|embedded|firmware|quant|trader|trading", re.I)
+ML = re.compile(r"machine learning|\bml\b|\bai\b|\bllm\b|deep learning|\bnlp\b|computer vision|data scien|applied scien|research scien|research engineer|forward deployed|\bfde\b|\bfdse\b|deployment strateg|reinforcement learning|\bgen ?ai\b|mlops|cuda|inference|robotics|perception|speech|foundation model|software|\bswe\b|\bsde\b|full.?stack|back.?end|front.?end|data engineer|platform|infrastructure|systems engineer|site reliability|\bsre\b|devops|security engineer|mobile|android|\bios\b|embedded|firmware|quant|trader|trading|data analy|analytics|business intelligence|\bbi\b|generative|prompt engineer|ai engineer|solutions engineer|applied ai", re.I)
 ML_ONLY = os.getenv("ML_ONLY", "1") == "1"
 
 TOKEN = os.getenv("TELEGRAM_TOKEN")
