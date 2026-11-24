@@ -1,9 +1,16 @@
-# Place at .github/workflows/build-list.yml. Run it manually from the Actions tab.
+# Place at .github/workflows/build-list.yml
+# Finds new company job boards (Greenhouse, Lever, Ashby, Workday) from names.txt and public
+# job lists, and adds them to companies.yaml. Runs every Monday and whenever you click Run.
 name: build-list
 on:
+  schedule:
+    - cron: "0 3 * * 1"
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
