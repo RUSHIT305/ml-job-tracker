@@ -1,12 +1,398 @@
-# Hand-picked companies. build-list adds Greenhouse, Lever, Ashby and Workday boards automatically.
-# all_roles: true = alert on every AI/ML role, not just intern/grad titles.
 companies:
-  - {name: OpenAI,     platform: ashby,  slug: openai,       all_roles: true}
-  - {name: Cohere,     platform: ashby,  slug: cohere}
-  - {name: Perplexity, platform: ashby,  slug: perplexityai}
-  - {name: Ramp,       platform: ashby,  slug: ramp}
-  - {name: Notion,     platform: ashby,  slug: notion}
-  - {name: Mistral,    platform: lever,  slug: mistral}
-  - {name: Palantir,   platform: lever,  slug: palantir}
-  - {name: NVIDIA, platform: workday, host: nvidia.wd5.myworkdayjobs.com, tenant: nvidia, site: NVIDIAExternalCareerSite}
-  - {name: Amazon, platform: amazon, search: [intern, university graduate, machine learning, applied scientist]}
+- {name: OpenAI, platform: ashby, slug: openai, all_roles: true}
+- {name: Cohere, platform: ashby, slug: cohere}
+- {name: Perplexity, platform: ashby, slug: perplexityai}
+- {name: Ramp, platform: ashby, slug: ramp}
+- {name: Notion, platform: ashby, slug: notion}
+- {name: Mistral, platform: lever, slug: mistral}
+- {name: Palantir, platform: lever, slug: palantir}
+- {name: NVIDIA, platform: workday, host: nvidia.wd5.myworkdayjobs.com, tenant: nvidia,
+  site: NVIDIAExternalCareerSite}
+- name: Amazon
+  platform: amazon
+  search: [intern, university graduate, machine learning, applied scientist]
+- {name: 'Preference-Model [ashby]', platform: ashby, slug: Preference-Model}
+- {name: 'Sierra [ashby]', platform: ashby, slug: Sierra}
+- {name: 'Strava [ashby]', platform: ashby, slug: Strava}
+- {name: 'abridge [ashby]', platform: ashby, slug: abridge}
+- {name: 'aescape [ashby]', platform: ashby, slug: aescape}
+- {name: 'agave [ashby]', platform: ashby, slug: agave}
+- {name: 'agzen [ashby]', platform: ashby, slug: agzen}
+- {name: 'airtable [ashby]', platform: ashby, slug: airtable}
+- {name: 'amplify [ashby]', platform: ashby, slug: amplify}
+- {name: 'amplitude [ashby]', platform: ashby, slug: amplitude}
+- {name: 'ande [ashby]', platform: ashby, slug: ande}
+- {name: 'anyscale [ashby]', platform: ashby, slug: anyscale}
+- {name: 'applied [ashby]', platform: ashby, slug: applied}
+- {name: 'armadin [ashby]', platform: ashby, slug: armadin}
+- {name: 'astro-mechanica [ashby]', platform: ashby, slug: astro-mechanica}
+- {name: 'aurelian [ashby]', platform: ashby, slug: aurelian}
+- {name: 'aurora-operations-inc [ashby]', platform: ashby, slug: aurora-operations-inc}
+- {name: 'backbone [ashby]', platform: ashby, slug: backbone}
+- {name: 'bagsfm [ashby]', platform: ashby, slug: bagsfm}
+- {name: 'basis-research [ashby]', platform: ashby, slug: basis-research}
+- {name: 'bedrock-robotics [ashby]', platform: ashby, slug: bedrock-robotics}
+- {name: 'benchling [ashby]', platform: ashby, slug: benchling}
+- {name: 'brainco [ashby]', platform: ashby, slug: brainco}
+- {name: 'bridger [ashby]', platform: ashby, slug: bridger}
+- {name: 'category-labs [ashby]', platform: ashby, slug: category-labs}
+- {name: 'cerebras [ashby]', platform: ashby, slug: cerebras}
+- {name: 'chalk [ashby]', platform: ashby, slug: chalk}
+- {name: 'claylabs [ashby]', platform: ashby, slug: claylabs}
+- {name: 'composio [ashby]', platform: ashby, slug: composio}
+- {name: 'confluent [ashby]', platform: ashby, slug: confluent}
+- {name: 'crusoe [ashby]', platform: ashby, slug: crusoe}
+- {name: 'cursor [ashby]', platform: ashby, slug: cursor}
+- {name: 'cylake-inc [ashby]', platform: ashby, slug: cylake-inc}
+- {name: 'dandy [ashby]', platform: ashby, slug: dandy}
+- {name: 'deel [ashby]', platform: ashby, slug: deel}
+- {name: 'designrulesco [ashby]', platform: ashby, slug: designrulesco}
+- {name: 'etched [ashby]', platform: ashby, slug: etched}
+- {name: 'faros-ai [ashby]', platform: ashby, slug: faros-ai}
+- {name: 'fellowai [ashby]', platform: ashby, slug: fellowai}
+- {name: 'first-resonance [ashby]', platform: ashby, slug: first-resonance}
+- {name: 'flint [ashby]', platform: ashby, slug: flint}
+- {name: 'formulary [ashby]', platform: ashby, slug: formulary}
+- {name: 'geniusai [ashby]', platform: ashby, slug: geniusai}
+- {name: 'georgian [ashby]', platform: ashby, slug: georgian}
+- {name: 'goaly [ashby]', platform: ashby, slug: goaly}
+- {name: 'graymatter-robotics [ashby]', platform: ashby, slug: graymatter-robotics}
+- {name: 'handshake [ashby]', platform: ashby, slug: handshake}
+- {name: 'harvey [ashby]', platform: ashby, slug: harvey}
+- {name: 'horizon3ai [ashby]', platform: ashby, slug: horizon3ai}
+- {name: 'hyphenate [ashby]', platform: ashby, slug: hyphenate}
+- {name: 'ibotta [ashby]', platform: ashby, slug: ibotta}
+- {name: 'icon [ashby]', platform: ashby, slug: icon}
+- {name: 'illumio [ashby]', platform: ashby, slug: illumio}
+- {name: 'insitro [ashby]', platform: ashby, slug: insitro}
+- {name: 'instil [ashby]', platform: ashby, slug: instil}
+- {name: 'integrate [ashby]', platform: ashby, slug: integrate}
+- {name: 'ironcladhq [ashby]', platform: ashby, slug: ironcladhq}
+- {name: 'jampack-ai [ashby]', platform: ashby, slug: jampack-ai}
+- {name: 'julius [ashby]', platform: ashby, slug: julius}
+- {name: 'keplar [ashby]', platform: ashby, slug: keplar}
+- {name: 'keyrock [ashby]', platform: ashby, slug: keyrock}
+- {name: 'kira [ashby]', platform: ashby, slug: kira}
+- {name: 'koahlabs [ashby]', platform: ashby, slug: koahlabs}
+- {name: 'lambda [ashby]', platform: ashby, slug: lambda}
+- {name: 'launchdarkly [ashby]', platform: ashby, slug: launchdarkly}
+- {name: 'linear [ashby]', platform: ashby, slug: linear}
+- {name: 'mach9 [ashby]', platform: ashby, slug: mach9}
+- {name: 'meow [ashby]', platform: ashby, slug: meow}
+- {name: 'mercury [ashby]', platform: ashby, slug: mercury}
+- {name: 'metalenz [ashby]', platform: ashby, slug: metalenz}
+- {name: 'metamorphic [ashby]', platform: ashby, slug: metamorphic}
+- {name: 'modal [ashby]', platform: ashby, slug: modal}
+- {name: 'morse-micro [ashby]', platform: ashby, slug: morse-micro}
+- {name: 'mossrobotics [ashby]', platform: ashby, slug: mossrobotics}
+- {name: 'netholabs [ashby]', platform: ashby, slug: netholabs}
+- {name: 'nexus-cognitive [ashby]', platform: ashby, slug: nexus-cognitive}
+- {name: 'nooks [ashby]', platform: ashby, slug: nooks}
+- {name: 'old-mission-capital [ashby]', platform: ashby, slug: old-mission-capital}
+- {name: 'pangramlabs [ashby]', platform: ashby, slug: pangramlabs}
+- {name: 'parabola-io [ashby]', platform: ashby, slug: parabola-io}
+- {name: 'patreon [ashby]', platform: ashby, slug: patreon}
+- {name: 'perplexity [ashby]', platform: ashby, slug: perplexity}
+- {name: 'persona [ashby]', platform: ashby, slug: persona}
+- {name: 'physicalintelligence [ashby]', platform: ashby, slug: physicalintelligence}
+- {name: 'pinecone [ashby]', platform: ashby, slug: pinecone}
+- {name: 'plaid [ashby]', platform: ashby, slug: plaid}
+- {name: 'plot [ashby]', platform: ashby, slug: plot}
+- {name: 'pylon-labs [ashby]', platform: ashby, slug: pylon-labs}
+- {name: 'qumulo [ashby]', platform: ashby, slug: qumulo}
+- {name: 'quora [ashby]', platform: ashby, slug: quora}
+- {name: 'realmalliance [ashby]', platform: ashby, slug: realmalliance}
+- {name: 'reddit [ashby]', platform: ashby, slug: reddit}
+- {name: 'regent [ashby]', platform: ashby, slug: regent}
+- {name: 'reka [ashby]', platform: ashby, slug: reka}
+- {name: 'reliable-robotics [ashby]', platform: ashby, slug: reliable-robotics}
+- {name: 'relling [ashby]', platform: ashby, slug: relling}
+- {name: 'replit [ashby]', platform: ashby, slug: replit}
+- {name: 'rollout [ashby]', platform: ashby, slug: rollout}
+- {name: 'runway [ashby]', platform: ashby, slug: runway}
+- {name: 'saronic [ashby]', platform: ashby, slug: saronic}
+- {name: 'scout-ai [ashby]', platform: ashby, slug: scout-ai}
+- {name: 'secureframe [ashby]', platform: ashby, slug: secureframe}
+- {name: 'shield [ashby]', platform: ashby, slug: shield}
+- {name: 'sierra [ashby]', platform: ashby, slug: sierra}
+- {name: 'skydio [ashby]', platform: ashby, slug: skydio}
+- {name: 'snowflake [ashby]', platform: ashby, slug: snowflake}
+- {name: 'snyk [ashby]', platform: ashby, slug: snyk}
+- {name: 'spruceid [ashby]', platform: ashby, slug: spruceid}
+- {name: 'steel [ashby]', platform: ashby, slug: steel}
+- {name: 'stradahq [ashby]', platform: ashby, slug: stradahq}
+- {name: 'swarmaero [ashby]', platform: ashby, slug: swarmaero}
+- {name: 'telus-digital [ashby]', platform: ashby, slug: telus-digital}
+- {name: 'thinkingmachines [ashby]', platform: ashby, slug: thinkingmachines}
+- {name: 'trainline [ashby]', platform: ashby, slug: trainline}
+- {name: 'vercel [ashby]', platform: ashby, slug: vercel}
+- {name: 'viggle [ashby]', platform: ashby, slug: viggle}
+- {name: 'vital-lyfe [ashby]', platform: ashby, slug: vital-lyfe}
+- {name: 'voleon [ashby]', platform: ashby, slug: voleon, any_field: true}
+- {name: 'wayve [ashby]', platform: ashby, slug: wayve}
+- {name: 'webai [ashby]', platform: ashby, slug: webai}
+- {name: 'webflow [ashby]', platform: ashby, slug: webflow}
+- {name: 'zapier [ashby]', platform: ashby, slug: zapier}
+- {name: 'zus-health [ashby]', platform: ashby, slug: zus-health}
+- {name: acluinternships, platform: greenhouse, slug: acluinternships}
+- {name: addepar1, platform: greenhouse, slug: addepar1}
+- {name: affirm, platform: greenhouse, slug: affirm}
+- {name: airbnb, platform: greenhouse, slug: airbnb}
+- {name: airtable, platform: greenhouse, slug: airtable}
+- {name: akunacapital, platform: greenhouse, slug: akunacapital, any_field: true}
+- {name: akunacapitaloci, platform: greenhouse, slug: akunacapitaloci}
+- {name: amca, platform: greenhouse, slug: amca}
+- {name: andurilindustries, platform: greenhouse, slug: andurilindustries}
+- {name: anthropic, platform: greenhouse, slug: anthropic}
+- {name: arcboatcompany, platform: greenhouse, slug: arcboatcompany}
+- {name: asana, platform: greenhouse, slug: asana}
+- {name: asteraearlycareer2027, platform: greenhouse, slug: asteraearlycareer2027}
+- {name: astranis, platform: greenhouse, slug: astranis}
+- {name: atoms, platform: greenhouse, slug: atoms}
+- {name: attainpartners, platform: greenhouse, slug: attainpartners}
+- {name: authenticinsurance, platform: greenhouse, slug: authenticinsurance}
+- {name: axontalentcommunity, platform: greenhouse, slug: axontalentcommunity}
+- {name: bgeinc, platform: greenhouse, slug: bgeinc}
+- {name: bgeinccampus, platform: greenhouse, slug: bgeinccampus}
+- {name: biohub, platform: greenhouse, slug: biohub}
+- {name: blenheimchalcot, platform: greenhouse, slug: blenheimchalcot}
+- {name: bluestaq, platform: greenhouse, slug: bluestaq}
+- {name: brave, platform: greenhouse, slug: brave}
+- {name: brex, platform: greenhouse, slug: brex}
+- {name: c3ascend, platform: greenhouse, slug: c3ascend}
+- {name: capstoneinvestmentadvisors, platform: greenhouse, slug: capstoneinvestmentadvisors}
+- {name: carta, platform: greenhouse, slug: carta}
+- {name: chime, platform: greenhouse, slug: chime}
+- {name: clear, platform: greenhouse, slug: clear}
+- {name: cloudflare, platform: greenhouse, slug: cloudflare}
+- {name: cmt, platform: greenhouse, slug: cmt}
+- {name: cockroachlabs, platform: greenhouse, slug: cockroachlabs}
+- {name: coinbase, platform: greenhouse, slug: coinbase}
+- {name: coreweave, platform: greenhouse, slug: coreweave}
+- {name: courierhealth, platform: greenhouse, slug: courierhealth}
+- {name: cresta, platform: greenhouse, slug: cresta}
+- {name: crystaldynamics, platform: greenhouse, slug: crystaldynamics}
+- {name: cssmerge, platform: greenhouse, slug: cssmerge}
+- {name: databricks, platform: greenhouse, slug: databricks}
+- {name: datacor, platform: greenhouse, slug: datacor}
+- {name: datadog, platform: greenhouse, slug: datadog}
+- {name: deeplocal, platform: greenhouse, slug: deeplocal}
+- {name: deliveroo, platform: greenhouse, slug: deliveroo}
+- {name: descript, platform: greenhouse, slug: descript}
+- {name: descriptinc, platform: greenhouse, slug: descriptinc}
+- {name: discord, platform: greenhouse, slug: discord}
+- {name: divergent, platform: greenhouse, slug: divergent}
+- {name: dmcengineering_campus, platform: greenhouse, slug: dmcengineering_campus}
+- {name: doordashusa, platform: greenhouse, slug: doordashusa}
+- {name: drivewealth, platform: greenhouse, slug: drivewealth}
+- {name: dropbox, platform: greenhouse, slug: dropbox}
+- {name: duolingo, platform: greenhouse, slug: duolingo}
+- {name: duolingounirecruitment, platform: greenhouse, slug: duolingounirecruitment}
+- {name: ecjobb, platform: greenhouse, slug: ecjobb}
+- {name: edmentum, platform: greenhouse, slug: edmentum}
+- {name: elastic, platform: greenhouse, slug: elastic}
+- {name: energysolutionsinternships, platform: greenhouse, slug: energysolutionsinternships}
+- {name: engineersgate, platform: greenhouse, slug: engineersgate, any_field: true}
+- {name: enova, platform: greenhouse, slug: enova}
+- {name: eqtcorporation, platform: greenhouse, slug: eqtcorporation}
+- {name: etchedai, platform: greenhouse, slug: etchedai}
+- {name: exoduspoint, platform: greenhouse, slug: exoduspoint, any_field: true}
+- {name: faire, platform: greenhouse, slug: faire}
+- {name: fanaticscollectibles, platform: greenhouse, slug: fanaticscollectibles}
+- {name: fccincinnati, platform: greenhouse, slug: fccincinnati}
+- {name: figma, platform: greenhouse, slug: figma}
+- {name: figureai, platform: greenhouse, slug: figureai}
+- {name: flexport, platform: greenhouse, slug: flexport}
+- {name: flowtraders, platform: greenhouse, slug: flowtraders, any_field: true}
+- {name: freedomconsulting, platform: greenhouse, slug: freedomconsulting}
+- {name: freeformfuturecorp, platform: greenhouse, slug: freeformfuturecorp}
+- {name: fspco-op012325, platform: greenhouse, slug: fspco-op012325}
+- {name: furtherearlycareer, platform: greenhouse, slug: furtherearlycareer}
+- {name: gardacp, platform: greenhouse, slug: gardacp}
+- {name: gcmgrosvenor, platform: greenhouse, slug: gcmgrosvenor}
+- {name: gemini, platform: greenhouse, slug: gemini}
+- {name: generalmatter, platform: greenhouse, slug: generalmatter}
+- {name: genscript, platform: greenhouse, slug: genscript}
+- {name: getbuilt, platform: greenhouse, slug: getbuilt}
+- {name: gitlab, platform: greenhouse, slug: gitlab}
+- {name: gofundme, platform: greenhouse, slug: gofundme}
+- {name: graphcore, platform: greenhouse, slug: graphcore}
+- {name: graphcore-early-careers, platform: greenhouse, slug: graphcore-early-careers}
+- {name: gravitonresearchcapital, platform: greenhouse, slug: gravitonresearchcapital}
+- {name: groma, platform: greenhouse, slug: groma}
+- {name: gusto, platform: greenhouse, slug: gusto}
+- {name: harborglobal, platform: greenhouse, slug: harborglobal}
+- {name: headlandstechnologiesllc, platform: greenhouse, slug: headlandstechnologiesllc}
+- {name: helsing, platform: greenhouse, slug: helsing}
+- {name: hivefinancialsystems, platform: greenhouse, slug: hivefinancialsystems}
+- {name: hpiq, platform: greenhouse, slug: hpiq}
+- {name: humaninterestswe1, platform: greenhouse, slug: humaninterestswe1}
+- {name: icapitalnetwork, platform: greenhouse, slug: icapitalnetwork}
+- {name: idme, platform: greenhouse, slug: idme}
+- {name: idmeuniversityrecruiting, platform: greenhouse, slug: idmeuniversityrecruiting}
+- {name: imbueunlisted, platform: greenhouse, slug: imbueunlisted}
+- {name: inflectionai, platform: greenhouse, slug: inflectionai}
+- {name: instacart, platform: greenhouse, slug: instacart}
+- {name: instalilyai, platform: greenhouse, slug: instalilyai}
+- {name: intercom, platform: greenhouse, slug: intercom}
+- {name: intersystems, platform: greenhouse, slug: intersystems}
+- {name: inversionspace, platform: greenhouse, slug: inversionspace}
+- {name: janestreet, platform: greenhouse, slug: janestreet, any_field: true}
+- {name: jomboymedia, platform: greenhouse, slug: jomboymedia}
+- {name: jumptrading, platform: greenhouse, slug: jumptrading, any_field: true}
+- {name: lattice, platform: greenhouse, slug: lattice}
+- {name: launchdarkly, platform: greenhouse, slug: launchdarkly}
+- {name: lightmatter, platform: greenhouse, slug: lightmatter}
+- {name: lilasciences, platform: greenhouse, slug: lilasciences}
+- {name: lucidsoftware, platform: greenhouse, slug: lucidsoftware}
+- {name: lumbermens, platform: greenhouse, slug: lumbermens}
+- {name: lyft, platform: greenhouse, slug: lyft}
+- {name: machindustries, platform: greenhouse, slug: machindustries}
+- {name: mercury, platform: greenhouse, slug: mercury}
+- {name: method, platform: greenhouse, slug: method}
+- {name: mixpanel, platform: greenhouse, slug: mixpanel}
+- {name: momentenergy, platform: greenhouse, slug: momentenergy}
+- {name: mongodb, platform: greenhouse, slug: mongodb}
+- {name: morph, platform: greenhouse, slug: morph}
+- {name: muonspace, platform: greenhouse, slug: muonspace}
+- {name: nerostechnologies, platform: greenhouse, slug: nerostechnologies}
+- {name: netlify, platform: greenhouse, slug: netlify}
+- {name: neuralink, platform: greenhouse, slug: neuralink}
+- {name: newsbreak, platform: greenhouse, slug: newsbreak}
+- {name: nex, platform: greenhouse, slug: nex}
+- {name: nuro, platform: greenhouse, slug: nuro}
+- {name: observeai, platform: greenhouse, slug: observeai}
+- {name: octaura, platform: greenhouse, slug: octaura}
+- {name: okta, platform: greenhouse, slug: okta}
+- {name: oneethos, platform: greenhouse, slug: oneethos}
+- {name: optiver, platform: greenhouse, slug: optiver, any_field: true}
+- {name: pagerduty, platform: greenhouse, slug: pagerduty}
+- {name: paretocaptiveservicesllc, platform: greenhouse, slug: paretocaptiveservicesllc}
+- {name: pdtpartners, platform: greenhouse, slug: pdtpartners}
+- {name: peloton, platform: greenhouse, slug: peloton}
+- {name: perpay, platform: greenhouse, slug: perpay}
+- {name: pinterest, platform: greenhouse, slug: pinterest}
+- {name: point72, platform: greenhouse, slug: point72, any_field: true}
+- {name: profluent, platform: greenhouse, slug: profluent}
+- {name: purestorage, platform: greenhouse, slug: purestorage}
+- {name: quantiq, platform: greenhouse, slug: quantiq}
+- {name: quberesearchandtechnologies, platform: greenhouse, slug: quberesearchandtechnologies}
+- {name: queracomputinginc, platform: greenhouse, slug: queracomputinginc}
+- {name: reddit, platform: greenhouse, slug: reddit}
+- {name: rendezvousrobotics, platform: greenhouse, slug: rendezvousrobotics}
+- {name: robinhood, platform: greenhouse, slug: robinhood}
+- {name: roblox, platform: greenhouse, slug: roblox}
+- {name: roboforce, platform: greenhouse, slug: roboforce}
+- {name: rubrik, platform: greenhouse, slug: rubrik}
+- {name: ruggedrobotics, platform: greenhouse, slug: ruggedrobotics}
+- {name: samsara, platform: greenhouse, slug: samsara}
+- {name: samsungresearchamericainternship, platform: greenhouse, slug: samsungresearchamericainternship}
+- {name: scaleai, platform: greenhouse, slug: scaleai}
+- {name: schonfeld, platform: greenhouse, slug: schonfeld, any_field: true}
+- {name: scoutmotors, platform: greenhouse, slug: scoutmotors}
+- {name: scoutspace, platform: greenhouse, slug: scoutspace}
+- {name: seatgeek, platform: greenhouse, slug: seatgeek}
+- {name: sharkninjaoperatingllc, platform: greenhouse, slug: sharkninjaoperatingllc}
+- {name: sigmacomputing, platform: greenhouse, slug: sigmacomputing}
+- {name: singlestore, platform: greenhouse, slug: singlestore}
+- {name: sirenopt, platform: greenhouse, slug: sirenopt}
+- {name: sitimecorporation, platform: greenhouse, slug: sitimecorporation}
+- {name: skhynixmemorysolutionsamericainc, platform: greenhouse, slug: skhynixmemorysolutionsamericainc}
+- {name: snorkelai, platform: greenhouse, slug: snorkelai}
+- {name: spacex, platform: greenhouse, slug: spacex}
+- {name: squarepointcapital, platform: greenhouse, slug: squarepointcapital, any_field: true}
+- {name: squarespace, platform: greenhouse, slug: squarespace}
+- {name: stabilityai, platform: greenhouse, slug: stabilityai}
+- {name: stackav, platform: greenhouse, slug: stackav}
+- {name: stratolaunch, platform: greenhouse, slug: stratolaunch}
+- {name: stripe, platform: greenhouse, slug: stripe}
+- {name: studentinternships, platform: greenhouse, slug: studentinternships}
+- {name: studentprogram, platform: greenhouse, slug: studentprogram}
+- {name: superapp, platform: greenhouse, slug: superapp}
+- {name: tenstorrent, platform: greenhouse, slug: tenstorrent}
+- {name: tenstorrentuniversity, platform: greenhouse, slug: tenstorrentuniversity}
+- {name: thealleninstitute, platform: greenhouse, slug: thealleninstitute}
+- {name: toast, platform: greenhouse, slug: toast}
+- {name: togetherai, platform: greenhouse, slug: togetherai}
+- {name: toshibaglobalcommercesolutions, platform: greenhouse, slug: toshibaglobalcommercesolutions}
+- {name: towerresearchcapital, platform: greenhouse, slug: towerresearchcapital, any_field: true}
+- {name: transmarketgroup, platform: greenhouse, slug: transmarketgroup}
+- {name: trueanomalyinc, platform: greenhouse, slug: trueanomalyinc}
+- {name: truveta, platform: greenhouse, slug: truveta}
+- {name: twilio, platform: greenhouse, slug: twilio}
+- {name: twitch, platform: greenhouse, slug: twitch}
+- {name: ultimagenomics, platform: greenhouse, slug: ultimagenomics}
+- {name: undercontrolroboticsinc, platform: greenhouse, slug: undercontrolroboticsinc}
+- {name: vardaspace, platform: greenhouse, slug: vardaspace}
+- {name: vercel, platform: greenhouse, slug: vercel}
+- {name: voyagertechnologiesinc, platform: greenhouse, slug: voyagertechnologiesinc}
+- {name: webflow, platform: greenhouse, slug: webflow}
+- {name: wonderschool, platform: greenhouse, slug: wonderschool}
+- {name: 'CesiumAstro [lever]', platform: lever, slug: CesiumAstro}
+- {name: 'SimbeRobotics [lever]', platform: lever, slug: SimbeRobotics}
+- {name: 'analyticpartners [lever]', platform: lever, slug: analyticpartners}
+- {name: 'belvederetrading [lever]', platform: lever, slug: belvederetrading, any_field: true}
+- {name: 'bis [lever]', platform: lever, slug: bis}
+- {name: 'bosonai [lever]', platform: lever, slug: bosonai}
+- {name: 'brooksrunning [lever]', platform: lever, slug: brooksrunning}
+- {name: 'cfsenergy [lever]', platform: lever, slug: cfsenergy}
+- {name: 'crosscountry-consulting [lever]', platform: lever, slug: crosscountry-consulting}
+- {name: 'datalabusa [lever]', platform: lever, slug: datalabusa}
+- {name: 'duetti [lever]', platform: lever, slug: duetti}
+- {name: 'epwealth [lever]', platform: lever, slug: epwealth}
+- {name: 'eqbank [lever]', platform: lever, slug: eqbank}
+- {name: 'exowatt [lever]', platform: lever, slug: exowatt}
+- {name: 'field-ai [lever]', platform: lever, slug: field-ai}
+- {name: 'futo-org [lever]', platform: lever, slug: futo-org}
+- {name: 'kabam [lever]', platform: lever, slug: kabam}
+- {name: 'kepler [lever]', platform: lever, slug: kepler}
+- {name: 'kraken [lever]', platform: lever, slug: kraken}
+- {name: 'loftorbital [lever]', platform: lever, slug: loftorbital}
+- {name: 'magnetforensics [lever]', platform: lever, slug: magnetforensics}
+- {name: 'matchgroup [lever]', platform: lever, slug: matchgroup}
+- {name: 'momsmeals [lever]', platform: lever, slug: momsmeals}
+- {name: 'mytos [lever]', platform: lever, slug: mytos}
+- {name: 'neighbor [lever]', platform: lever, slug: neighbor}
+- {name: 'parallelwireless [lever]', platform: lever, slug: parallelwireless}
+- {name: 'pattern [lever]', platform: lever, slug: pattern}
+- {name: 'pivotal [lever]', platform: lever, slug: pivotal}
+- {name: 'questanalytics [lever]', platform: lever, slug: questanalytics}
+- {name: 'saviynt [lever]', platform: lever, slug: saviynt}
+- {name: 'shieldai [lever]', platform: lever, slug: shieldai}
+- {name: 'shopback-2 [lever]', platform: lever, slug: shopback-2}
+- {name: 'solopulseco [lever]', platform: lever, slug: solopulseco}
+- {name: 'spotify [lever]', platform: lever, slug: spotify}
+- {name: 'standtogether [lever]', platform: lever, slug: standtogether}
+- {name: 'stradaeducation [lever]', platform: lever, slug: stradaeducation}
+- {name: 'syntax [lever]', platform: lever, slug: syntax}
+- {name: 'tri [lever]', platform: lever, slug: tri}
+- {name: 'upscale-ai [lever]', platform: lever, slug: upscale-ai}
+- {name: 'voleon [lever]', platform: lever, slug: voleon, any_field: true}
+- {name: 'waabi [lever]', platform: lever, slug: waabi}
+- {name: 'wealthfront [lever]', platform: lever, slug: wealthfront}
+- {name: 'weride [lever]', platform: lever, slug: weride}
+- {name: 'zoox [lever]', platform: lever, slug: zoox}
+- {name: 'aimco [workday]', platform: workday, host: aimco.wd10.myworkdayjobs.com,
+  tenant: aimco, site: AIMCoCareers}
+- {name: 'boseallaboutme [workday]', platform: workday, host: boseallaboutme.wd503.myworkdayjobs.com,
+  tenant: boseallaboutme, site: Bose_Careers}
+- {name: 'capitalpower [workday]', platform: workday, host: capitalpower.wd10.myworkdayjobs.com,
+  tenant: capitalpower, site: External}
+- {name: 'ciena [workday]', platform: workday, host: ciena.wd5.myworkdayjobs.com,
+  tenant: ciena, site: Careers}
+- {name: 'fireflyspace [workday]', platform: workday, host: fireflyspace.wd115.myworkdayjobs.com,
+  tenant: fireflyspace, site: firefly}
+- {name: 'giro [workday]', platform: workday, host: giro.wd10.myworkdayjobs.com, tenant: giro,
+  site: GIRO}
+- {name: 'jsx [workday]', platform: workday, host: jsx.wd503.myworkdayjobs.com, tenant: jsx,
+  site: JSX_Careers}
+- {name: 'marvell [workday]', platform: workday, host: marvell.wd1.myworkdayjobs.com,
+  tenant: marvell, site: MarvellCareers2}
+- {name: 'micron [workday]', platform: workday, host: micron.wd1.myworkdayjobs.com,
+  tenant: micron, site: External}
+- {name: 'rbc [workday]', platform: workday, host: rbc.wd3.myworkdayjobs.com, tenant: rbc,
+  site: ExternalPrivatePostingStudents}
+- {name: 'symbotic [workday]', platform: workday, host: symbotic.wd504.myworkdayjobs.com,
+  tenant: symbotic, site: Symbotic}
+- {name: 'walmart [workday]', platform: workday, host: walmart.wd504.myworkdayjobs.com,
+  tenant: walmart, site: WalmartExternal}
