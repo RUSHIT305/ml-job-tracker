@@ -481,3 +481,23 @@ companies:
   site: njm}
 - {name: 'tmobile [workday]', platform: workday, host: tmobile.wd1.myworkdayjobs.com,
   tenant: tmobile, site: External}
+- {name: 'astrazeneca [workday]', platform: workday, host: astrazeneca.wd3.myworkdayjobs.com,
+  tenant: astrazeneca, site: Careers}
+- {name: 'bpinternational [workday]', platform: workday, host: bpinternational.wd3.myworkdayjobs.com,
+  tenant: bpinternational, site: bpEarlyCareers}
+- {name: 'canadiantirecorporation [workday]', platform: workday, host: canadiantirecorporation.wd3.myworkdayjobs.com,
+  tenant: canadiantirecorporation, site: Enterprise_External_Careers_Site}
+- {name: 'draftkings [workday]', platform: workday, host: draftkings.wd1.myworkdayjobs.com,
+  tenant: draftkings, site: Campus_Career_Portal}
+- {name: 'investpsp [workday]', platform: workday, host: investpsp.wd3.myworkdayjobs.com,
+  tenant: investpsp, site: psp_careers}
+- {name: 'kiongroup [workday]', platform: workday, host: kiongroup.wd3.myworkdayjobs.com,
+  tenant: kiongroup, site: kiongroup}
+- {name: 'leonardocompany [workday]', platform: workday, host: leonardocompany.wd3.myworkdayjobs.com,
+  tenant: leonardocompany, site: LeonardoCareerSite}
+- {name: 'lseg [workday]', platform: workday, host: lseg.wd3.myworkdayjobs.com, tenant: lseg,
+  site: Graduate_Careers}
+- {name: 'mbda [workday]', platform: workday, host: mbda.wd3.myworkdayjobs.com, tenant: mbda,
+  site: MBDA-UK}
+- {name: 'mitel [workday]', platform: workday, host: mitel.wd3.myworkdayjobs.com,
+  tenant: mitel, site: mitelcareers}
