@@ -1,4 +1,6 @@
 # Place at .github/workflows/tracker.yml
+# Every 30 minutes: checks every company in companies.yaml and sends Telegram alerts for
+# NEW intern / new-grad / early-career roles in ALL fields (ML_ONLY "0").
 name: ml-job-tracker
 on:
   schedule:
@@ -6,6 +8,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -19,7 +24,7 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          ML_ONLY: "0"   # set to "0" to see all intern/grad roles, not just AI/ML
+          ML_ONLY: "0"   # "0" = all roles; set "1" to keep only tech/AI/ML/software titles
       - run: |
           git config user.name "tracker-bot"
           git config user.email "bot@users.noreply.github.com"
