@@ -1,0 +1,27 @@
+# Place at .github/workflows/build-list.yml. Run it manually from the Actions tab.
+name: build-list
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pyyaml
+      - name: Download public job lists to harvest company links
+        run: |
+          mkdir -p src
+          git clone --depth 1 https://github.com/SimplifyJobs/New-Grad-Positions src/ng || true
+          git clone --depth 1 https://github.com/SimplifyJobs/Summer2026-Internships src/in26 || true
+          git clone --depth 1 https://github.com/SimplifyJobs/Summer2027-Internships src/in27 || true
+      - run: python build_company_list.py "src/*/README*.md"
+      - run: |
+          git config user.name "tracker-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add companies.yaml not_found.txt
+          git diff --cached --quiet || (git commit -m "update company list" && git push)
