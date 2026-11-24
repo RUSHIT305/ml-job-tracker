@@ -1,6 +1,5 @@
 # Names with no board found on Greenhouse/Lever/Ashby/Workday. Use their own email alerts,
 # or add their exact career-page URL (or exact board name) to names.txt.
-xAI
 Hugging Face
 Weights & Biases
 wandb
@@ -62,12 +61,9 @@ Mythic
 SiFive
 Ambarella
 https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
-https://adobe.wd5.myworkdayjobs.com/external_experienced
 https://intel.wd1.myworkdayjobs.com/External
-https://qualcomm.wd12.myworkdayjobs.com/External
 https://amd.wd1.myworkdayjobs.com/AMD
 https://walmart.wd5.myworkdayjobs.com/WalmartExternal
-https://capitalone.wd12.myworkdayjobs.com/Capital_One
 https://mastercard.wd1.myworkdayjobs.com/CorporateCareers
 https://snowflake.wd1.myworkdayjobs.com/Snowflake
 https://workday.wd5.myworkdayjobs.com/Workday

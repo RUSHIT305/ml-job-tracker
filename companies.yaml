@@ -396,3 +396,80 @@ companies:
   tenant: symbotic, site: Symbotic}
 - {name: 'walmart [workday]', platform: workday, host: walmart.wd504.myworkdayjobs.com,
   tenant: walmart, site: WalmartExternal}
+- {name: woolpert, platform: greenhouse, slug: woolpert}
+- {name: xai, platform: greenhouse, slug: xai}
+- {name: ziprecruiter, platform: greenhouse, slug: ziprecruiter}
+- {name: 'abbott [workday]', platform: workday, host: abbott.wd5.myworkdayjobs.com,
+  tenant: abbott, site: abbottcareers}
+- {name: 'adobe [workday]', platform: workday, host: adobe.wd5.myworkdayjobs.com,
+  tenant: adobe, site: external_experienced}
+- {name: 'advanceauto [workday]', platform: workday, host: advanceauto.wd5.myworkdayjobs.com,
+  tenant: advanceauto, site: advanceexternalcareers}
+- {name: 'aero [workday]', platform: workday, host: aero.wd5.myworkdayjobs.com, tenant: aero,
+  site: external}
+- {name: 'allstate [workday]', platform: workday, host: allstate.wd5.myworkdayjobs.com,
+  tenant: allstate, site: sourcing_event}
+- {name: 'aoins [workday]', platform: workday, host: aoins.wd5.myworkdayjobs.com,
+  tenant: aoins, site: AutoOwners}
+- {name: 'applebank [workday]', platform: workday, host: applebank.wd5.myworkdayjobs.com,
+  tenant: applebank, site: applebankcareers}
+- {name: 'aptiv [workday]', platform: workday, host: aptiv.wd5.myworkdayjobs.com,
+  tenant: aptiv, site: aptiv_careers}
+- {name: 'arrowstreetcapital [workday]', platform: workday, host: arrowstreetcapital.wd5.myworkdayjobs.com,
+  tenant: arrowstreetcapital, site: Campus_Careers}
+- {name: 'axos [workday]', platform: workday, host: axos.wd5.myworkdayjobs.com, tenant: axos,
+  site: Axos}
+- {name: 'badgermeter [workday]', platform: workday, host: badgermeter.wd5.myworkdayjobs.com,
+  tenant: badgermeter, site: US_CareerSite}
+- {name: 'bankeasy [workday]', platform: workday, host: bankeasy.wd5.myworkdayjobs.com,
+  tenant: bankeasy, site: bank-easy-job-openings}
+- {name: 'blueorigin [workday]', platform: workday, host: blueorigin.wd5.myworkdayjobs.com,
+  tenant: blueorigin, site: blueorigin}
+- {name: 'capitalone [workday]', platform: workday, host: capitalone.wd12.myworkdayjobs.com,
+  tenant: capitalone, site: Capital_One}
+- {name: 'chathamfinancial [workday]', platform: workday, host: chathamfinancial.wd501.myworkdayjobs.com,
+  tenant: chathamfinancial, site: ChathamFinancial}
+- {name: 'cmu [workday]', platform: workday, host: cmu.wd115.myworkdayjobs.com, tenant: cmu,
+  site: SEI}
+- {name: 'cmu [workday]', platform: workday, host: cmu.wd115.myworkdayjobs.com, tenant: cmu,
+  site: cmu}
+- {name: 'expedia [workday]', platform: workday, host: expedia.wd108.myworkdayjobs.com,
+  tenant: expedia, site: private}
+- {name: 'expedia [workday]', platform: workday, host: expedia.wd108.myworkdayjobs.com,
+  tenant: expedia, site: search}
+- {name: 'gdit [workday]', platform: workday, host: gdit.wd5.myworkdayjobs.com, tenant: gdit,
+  site: gdit_earlytalent}
+- {name: 'geaerospace [workday]', platform: workday, host: geaerospace.wd5.myworkdayjobs.com,
+  tenant: geaerospace, site: ge_externalsite}
+- {name: 'gevernova [workday]', platform: workday, host: gevernova.wd5.myworkdayjobs.com,
+  tenant: gevernova, site: only_confidential_executive_recruiting}
+- {name: 'globalhr [workday]', platform: workday, host: globalhr.wd5.myworkdayjobs.com,
+  tenant: globalhr, site: rec_rtx_ext_gateway}
+- {name: 'hcmportal [workday]', platform: workday, host: hcmportal.wd5.myworkdayjobs.com,
+  tenant: hcmportal, site: Search}
+- {name: 'hpe [workday]', platform: workday, host: hpe.wd5.myworkdayjobs.com, tenant: hpe,
+  site: acjobsite}
+- {name: 'itron [workday]', platform: workday, host: itron.wd5.myworkdayjobs.com,
+  tenant: itron, site: Early_Careers}
+- {name: 'jabil [workday]', platform: workday, host: jabil.wd5.myworkdayjobs.com,
+  tenant: jabil, site: Jabil_Careers}
+- {name: 'kbr [workday]', platform: workday, host: kbr.wd5.myworkdayjobs.com, tenant: kbr,
+  site: KBR_Careers}
+- {name: 'kyndryl [workday]', platform: workday, host: kyndryl.wd5.myworkdayjobs.com,
+  tenant: kyndryl, site: KyndrylEarlyCareers}
+- {name: 'leidos [workday]', platform: workday, host: leidos.wd5.myworkdayjobs.com,
+  tenant: leidos, site: External}
+- {name: 'modmed [workday]', platform: workday, host: modmed.wd501.myworkdayjobs.com,
+  tenant: modmed, site: ModMed12}
+- {name: 'nordsonhcm [workday]', platform: workday, host: nordsonhcm.wd501.myworkdayjobs.com,
+  tenant: nordsonhcm, site: nordsoncareers}
+- {name: 'oregonstate [workday]', platform: workday, host: oregonstate.wd501.myworkdayjobs.com,
+  tenant: oregonstate, site: OSU_Careers_Site}
+- {name: 'pipersandler [workday]', platform: workday, host: pipersandler.wd501.myworkdayjobs.com,
+  tenant: pipersandler, site: Piper_Sandler_Careers}
+- {name: 'qualcomm [workday]', platform: workday, host: qualcomm.wd12.myworkdayjobs.com,
+  tenant: qualcomm, site: External}
+- {name: 'risepoint [workday]', platform: workday, host: risepoint.wd503.myworkdayjobs.com,
+  tenant: risepoint, site: Risepoint}
+- {name: 'tapestry [workday]', platform: workday, host: tapestry.wd108.myworkdayjobs.com,
+  tenant: tapestry, site: Tapestry_Careers}
