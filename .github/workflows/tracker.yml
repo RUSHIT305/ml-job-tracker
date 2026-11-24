@@ -24,7 +24,7 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          ML_ONLY: "0"   # "0" = all roles; set "1" to keep only tech/AI/ML/software titles
+          ML_ONLY: "1"   # "0" = all roles; set "1" to keep only tech/AI/ML/software titles
       - run: |
           git config user.name "tracker-bot"
           git config user.email "bot@users.noreply.github.com"
