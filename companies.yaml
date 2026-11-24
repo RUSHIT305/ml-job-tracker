@@ -501,3 +501,15 @@ companies:
   site: MBDA-UK}
 - {name: 'mitel [workday]', platform: workday, host: mitel.wd3.myworkdayjobs.com,
   tenant: mitel, site: mitelcareers}
+- {name: 'draftkings [workday]', platform: workday, host: draftkings.wd1.myworkdayjobs.com,
+  tenant: draftkings, site: Employee_Referral_Portal}
+- {name: 'hp [workday]', platform: workday, host: hp.wd5.myworkdayjobs.com, tenant: hp,
+  site: EXTEU-AC-CareerSite}
+- {name: 'hpe [workday]', platform: workday, host: hpe.wd5.myworkdayjobs.com, tenant: hpe,
+  site: jobsathpe}
+- {name: 'latticesemi [workday]', platform: workday, host: latticesemi.wd5.myworkdayjobs.com,
+  tenant: latticesemi, site: latticesemiconductorscareers}
+- {name: 'southstatebank [workday]', platform: workday, host: southstatebank.wd5.myworkdayjobs.com,
+  tenant: southstatebank, site: external}
+- {name: 'sterlingmets [workday]', platform: workday, host: sterlingmets.wd5.myworkdayjobs.com,
+  tenant: sterlingmets, site: Mets}
