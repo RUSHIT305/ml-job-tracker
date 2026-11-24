@@ -1,0 +1,191 @@
+# One company name per line (or a career-page URL). Add * at the end for trading/quant firms (alerts on any intern/grad role).
+# Wrong guesses are simply discarded. Add as many names as you like.
+# --- AI labs and AI companies ---
+Anthropic
+xAI
+Scale AI
+Databricks
+Hugging Face
+Weights & Biases
+wandb
+Anyscale
+Glean
+Character AI
+Runway
+Stability AI
+Cerebras
+SambaNova
+Groq
+Lambda
+CoreWeave
+Together AI
+Modal
+Replit
+Anysphere
+Sierra
+Harvey
+Hebbia
+Abridge
+Applied Intuition
+Waabi
+Skydio
+Shield AI
+Saronic
+Anduril Industries
+Nuro
+Aurora Innovation
+Recursion
+Insitro
+Tempus
+Pinecone
+Snorkel AI
+Cresta
+Observe
+Vercel
+Netlify
+# --- Tech companies ---
+Stripe
+Airbnb
+Cloudflare
+Figma
+Coinbase
+Robinhood
+Datadog
+Twilio
+Pinterest
+Lyft
+Dropbox
+Reddit
+Discord
+Instacart
+Asana
+GitLab
+MongoDB
+Elastic
+Plaid
+Brex
+Affirm
+Chime
+Gusto
+Okta
+Snyk
+HashiCorp
+Confluent
+Samsara
+Toast
+Roblox
+Unity
+Duolingo
+Grammarly
+Squarespace
+Etsy
+Peloton
+Opendoor
+Doordash
+Carta
+Flexport
+Rubrik
+Cockroach Labs
+PagerDuty
+LaunchDarkly
+Amplitude
+Mixpanel
+Webflow
+Airtable
+Retool
+Segment
+Intercom
+SeatGeek
+Wayfair
+Zillow
+# --- Trading / quant firms (any intern or grad role) ---
+Hudson River Trading *
+Jump Trading *
+Citadel *
+Citadel Securities *
+Jane Street *
+Optiver *
+IMC Trading *
+Two Sigma *
+DRW *
+Akuna Capital *
+Virtu Financial *
+Flow Traders *
+Susquehanna *
+Tower Research Capital *
+Five Rings *
+Old Mission *
+Squarepoint Capital *
+Millennium *
+Point72 *
+DE Shaw *
+Wolverine *
+Radix Trading *
+Headlands Technologies *
+Voleon *
+XTX Markets *
+Aquatic Capital *
+Belvedere Trading *
+Peak6 *
+Chicago Trading Company *
+Maven Securities *
+Quantlab *
+Engineers Gate *
+Balyasny *
+Schonfeld *
+ExodusPoint *
+# --- More tech and AI names (tested on Greenhouse, Lever and Ashby) ---
+Spotify
+Shopify
+Zapier
+Linear
+Mercury
+Deel
+Rippling
+Lattice
+Clay
+Descript
+Ironclad
+Navan
+Kraken
+Gemini
+Wealthfront
+Mistral AI
+Cursor
+Sourcegraph
+Neuralink
+Rivian
+Zoox
+Wayve
+Helsing
+Palantir
+Cohere
+Perplexity
+Hippocratic AI
+Physical Intelligence
+Figure AI
+Thinking Machines
+Safe Superintelligence
+Reka
+Adept
+Inflection
+EleutherAI
+Allen Institute for AI
+Cerebras Systems
+Etched
+Mythic
+Tenstorrent
+SiFive
+Ambarella
+# --- Workday career pages (best guesses; wrong ones are discarded automatically) ---
+https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+https://adobe.wd5.myworkdayjobs.com/external_experienced
+https://intel.wd1.myworkdayjobs.com/External
+https://qualcomm.wd12.myworkdayjobs.com/External
+https://amd.wd1.myworkdayjobs.com/AMD
+https://walmart.wd5.myworkdayjobs.com/WalmartExternal
+https://capitalone.wd12.myworkdayjobs.com/Capital_One
+https://mastercard.wd1.myworkdayjobs.com/CorporateCareers
+https://snowflake.wd1.myworkdayjobs.com/Snowflake
+https://workday.wd5.myworkdayjobs.com/Workday
+https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers
