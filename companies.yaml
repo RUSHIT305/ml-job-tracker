@@ -473,3 +473,11 @@ companies:
   tenant: risepoint, site: Risepoint}
 - {name: 'tapestry [workday]', platform: workday, host: tapestry.wd108.myworkdayjobs.com,
   tenant: tapestry, site: Tapestry_Careers}
+- {name: 'cardinalhealth [workday]', platform: workday, host: cardinalhealth.wd1.myworkdayjobs.com,
+  tenant: cardinalhealth, site: EXT}
+- {name: 'hp [workday]', platform: workday, host: hp.wd5.myworkdayjobs.com, tenant: hp,
+  site: externalcareersite}
+- {name: 'njm [workday]', platform: workday, host: njm.wd1.myworkdayjobs.com, tenant: njm,
+  site: njm}
+- {name: 'tmobile [workday]', platform: workday, host: tmobile.wd1.myworkdayjobs.com,
+  tenant: tmobile, site: External}
