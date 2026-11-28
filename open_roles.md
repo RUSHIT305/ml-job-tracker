@@ -1,4 +1,4 @@
-# Currently open matching roles (6089)
+# Currently open matching roles (6090)
 
 - **abridge [ashby]** | Business Systems Engineer - Finance | SF Office | https://jobs.ashbyhq.com/Abridge/c3c523fd-28d4-4e3d-9d02-04eeddb3f4f4
 - **abridge [ashby]** | Engineering Leader, GenAI | SF Office | https://jobs.ashbyhq.com/Abridge/19598f60-fead-402a-b41e-b8bd9a2ff05d
@@ -168,7 +168,6 @@
 - **Amazon** | Data Engineer Internship  | London, England, GBR | https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship
 - **Amazon** | Data Engineer Internship  | Luxembourg, LUX | https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship
 - **Amazon** | Data Scientist III - AMZ27741.1 | Seattle, Washington, USA | https://www.amazon.jobs/en/jobs/10611912/data-scientist-iii-amz27741-1
-- **Amazon** | Data Scientist, Discovery & Recommendations | San Francisco, California, USA | https://www.amazon.jobs/en/jobs/10609853/data-scientist-discovery-recommendations
 - **Amazon** | Front-End Engineer Internship – 2027 (US) | Seattle, Washington, USA | https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us
 - **Amazon** | Process Analyst, EU Central Operations Analytics | Barcelona, Catalonia, ESP | https://www.amazon.jobs/en/jobs/10610312/process-analyst-eu-central-operations-analytics
 - **Amazon** | Research Scientist III - AMZ10299038, Discovery Science  | Seattle, Washington, USA | https://www.amazon.jobs/en/jobs/10612952/research-scientist-iii-amz10299038-discovery-science
@@ -180,7 +179,6 @@
 - **Amazon** | Software Development Engineer II, AWS SageMaker | Bellevue, Washington, USA | https://www.amazon.jobs/en/jobs/10611673/software-development-engineer-ii-aws-sagemaker
 - **Amazon** | Software Development Engineer Intern - 2027, Beijing | Beijing, CHN | https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing
 - **Amazon** | Software Development Engineer Intern - Artificial General Intelligence (Summer 2027) | Sunnyvale, California, USA | https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
-- **Amazon** | Software Development Engineer, AIO Visualization and Reporting | Seattle, Washington, USA | https://www.amazon.jobs/en/jobs/10600530/software-development-engineer-aio-visualization-and-reporting
 - **Amazon** | Software Development Engineer, Amazon Customer Service | Seattle, Washington, USA | https://www.amazon.jobs/en/jobs/10612886/software-development-engineer-amazon-customer-service
 - **Amazon** | Software Development Engineer, Amazon Quick | Seattle, Washington, USA | https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick
 - **amca** | Software Engineering Internship (Summer 2027) | El Segundo, CA | https://job-boards.greenhouse.io/amca/jobs/4425120009
@@ -1006,6 +1004,25 @@
 - **blenheimchalcot** | Junior Software Engineer | London | https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207847
 - **bluestaq** | Cybersecurity Engineering Residency Program | Colorado Springs | https://job-boards.greenhouse.io/bluestaq/jobs/4475119009
 - **bluestaq** | Software Engineering Residency Program | Colorado Springs | https://job-boards.greenhouse.io/bluestaq/jobs/4420189009
+- **boseallaboutme [workday]** | Agentic AI Engineering Co-op – Active Noise Cancellation | Fall 2027 | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391
+- **boseallaboutme [workday]** | Audio AI Research Scientist — Audio Source Separation | 13 Locations | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Source-Separation_R29335
+- **boseallaboutme [workday]** | Audio AI Research Scientist — Audio Understanding | 13 Locations | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Understanding_R29333
+- **boseallaboutme [workday]** | Audio Machine Learning Co-op | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274
+- **boseallaboutme [workday]** | Control Systems Engineer - Noise Cancellation | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Control-Systems-Engineer---Noise-Cancellation_R29123
+- **boseallaboutme [workday]** | Data Science Co-Op (NLP & GenAI) | 3 Locations | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251
+- **boseallaboutme [workday]** | Digital Signal Processing ML Software Development Co-op | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372
+- **boseallaboutme [workday]** | DSP/ML Research Engineer Co-op | Spring 2027 | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370
+- **boseallaboutme [workday]** | DSP/ML Research Engineer Intern | Summer 2027 | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371
+- **boseallaboutme [workday]** | Electrical Engineering Co-op — FPGA and Audio Research Platforms | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-op---FPGA-and-Audio-Research-Platforms_R29366
+- **boseallaboutme [workday]** | Embedded Software Application Engineer | Korea, Seoul | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/Korea-Seoul/Embedded-Software-Application-Engineer_R29348
+- **boseallaboutme [workday]** | Machine Learning / AI Engineer | United States, Work from Home | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/United-States-Work-from-Home/Machine-Learning---AI-Engineer_R29361
+- **boseallaboutme [workday]** | Product Security Engineer - Audio Tech | United States, Work from Home | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/United-States-Work-from-Home/Senior-Product-Security-Engineer---Audio-Tech_R29102
+- **boseallaboutme [workday]** | Research Engineer — Agentic Audio ML Workflows | 16 Locations | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Research-Engineer---Agentic-Audio-ML-Workflows_R29334
+- **boseallaboutme [workday]** | Software Engineer Co-op | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387
+- **boseallaboutme [workday]** | Software Integration Engineer - Audio Technology | CHN, Shenzhen BOC | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/CHN-Shenzhen-BOC/Software-Integration-Engineer---Audio-Technology_R29229
+- **boseallaboutme [workday]** | Software Integration Engineer, Audio Technology | CHN, Shenzhen BOC | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/CHN-Shenzhen-BOC/Software-Integration-Engineer--Audio-Technology_R29228
+- **boseallaboutme [workday]** | Software/DSP Research Engineer Co-op | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369
+- **boseallaboutme [workday]** | Systems Architect, Edge AI | US, MA - Framingham | https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Systems-Architect--Edge-AI_R29168
 - **bosonai [lever]** | Frontend Engineer | Santa Clara HQ | https://jobs.lever.co/bosonai/c019bac7-dbb5-4b0a-a78e-e13fd0d30444
 - **bosonai [lever]** | Machine Learning Engineer - Enterprise | Toronto | https://jobs.lever.co/bosonai/ab98b4e4-df64-4c94-b66e-f86e7bac63ae
 - **bosonai [lever]** | Member of Technical Staff - Agent Platform (Agent OS) | Santa Clara HQ | https://jobs.lever.co/bosonai/35858631-de70-4ddf-b310-ea9417af3b29
@@ -1190,6 +1207,7 @@
 - **clear** | Software Development Engineer III | New York, NY, United States  | https://job-boards.greenhouse.io/clear/jobs/8100208
 - **clear** | Software Engineer (Fullstack and Backend Roles) | New York, New York, United States | https://job-boards.greenhouse.io/clear/jobs/8043865
 - **clear** | Software Engineer Backend (Java) | New York, New York, United States | https://job-boards.greenhouse.io/clear/jobs/8107053
+- **clear** | Solutions Engineer II, Healthcare (C1 - B2B) | New York, New York, United States | https://job-boards.greenhouse.io/clear/jobs/8421576
 - **cloudflare** | AI Security Research & Red Team Engineer | Hybrid | https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321
 - **cloudflare** | Customer Engineer AI/ Start Up's | Hybrid | https://boards.greenhouse.io/cloudflare/jobs/8350836?gh_jid=8350836
 - **cloudflare** | Data Analyst | Hybrid | https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620
@@ -1717,8 +1735,8 @@
 - **faire** | Staff Applied AI/ML Scientist | San Francisco, CA | https://boards.greenhouse.io/faire/jobs/8747498002?gh_jid=8747498002
 - **faire** | Staff Applied AI/ML Scientist, Acquisition | San Francisco, CA | https://boards.greenhouse.io/faire/jobs/8942108002?gh_jid=8942108002
 - **faire** | Staff Applied Scientist, LTV Modeling | New York City, NY; San Francisco, CA | https://boards.greenhouse.io/faire/jobs/8801834002?gh_jid=8801834002
-- **faire** | Staff Data Infrastructure Engineer | New York City, NY; San Francisco, CA | https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002
 - **faire** | Staff Data Infrastructure Engineer | Kitchener-Waterloo, ON; Toronto, ON | https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002
+- **faire** | Staff Data Infrastructure Engineer | New York City, NY; San Francisco, CA | https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002
 - **fanaticscollectibles** | AI Enablement & Business Operations Associate | Los Angeles, CA, United States; New York, NY, United States | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4317524009
 - **fanaticscollectibles** | Concept Artist - Trading Card Game | Seattle, WA, United States | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4309487009
 - **fanaticscollectibles** | Data Engineer II | Ciudad de México, Mexico | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4414214009
@@ -1840,17 +1858,17 @@
 - **flexport** | Product Data Analyst  | Shanghai, China | https://job-boards.greenhouse.io/flexport/jobs/8040985
 - **flexport** | Security Engineer, Corporate Security | San Francisco, California, United States | https://job-boards.greenhouse.io/flexport/jobs/8166038
 - **flexport** | Security Engineer, Corporate Security | U.S. Remote | https://job-boards.greenhouse.io/flexport/jobs/8166040
-- **flexport** | Security Engineer, Product Security | San Francisco, California, United States | https://job-boards.greenhouse.io/flexport/jobs/8375179
 - **flexport** | Security Engineer, Product Security | U.S. Remote | https://job-boards.greenhouse.io/flexport/jobs/8375181
+- **flexport** | Security Engineer, Product Security | San Francisco, California, United States | https://job-boards.greenhouse.io/flexport/jobs/8375179
 - **flexport** | Software Engineer I | Shanghai, China | https://job-boards.greenhouse.io/flexport/jobs/7978127
-- **flexport** | Software Engineer II | Shanghai, China | https://job-boards.greenhouse.io/flexport/jobs/5745289
 - **flexport** | Software Engineer II | Shenzhen, China | https://job-boards.greenhouse.io/flexport/jobs/7906161
+- **flexport** | Software Engineer II | Shanghai, China | https://job-boards.greenhouse.io/flexport/jobs/5745289
 - **flexport** | Software Engineer II, Autonomous Freight Technology | Bellevue, Washington, United States | https://job-boards.greenhouse.io/flexport/jobs/8326088
 - **flexport** | Software Engineer II: Autonomous Supply Chains | Amsterdam, Netherlands | https://job-boards.greenhouse.io/flexport/jobs/8393237
 - **flexport** | Software Engineer Ⅰ | Shenzhen, China | https://job-boards.greenhouse.io/flexport/jobs/7978696
 - **flexport** | Staff Applied AI Engineer, Autonomous Supply Chains | Amsterdam, Netherlands | https://job-boards.greenhouse.io/flexport/jobs/7311883
-- **flexport** | Staff Security Engineer, Product Security | San Francisco, California, United States | https://job-boards.greenhouse.io/flexport/jobs/8374701
 - **flexport** | Staff Security Engineer, Product Security | U.S. Remote | https://job-boards.greenhouse.io/flexport/jobs/8374703
+- **flexport** | Staff Security Engineer, Product Security | San Francisco, California, United States | https://job-boards.greenhouse.io/flexport/jobs/8374701
 - **flint [ashby]** | Infrastructure Engineer | San Francisco | https://jobs.ashbyhq.com/flint/9347be1d-49bd-40bc-9308-acca85ee1117
 - **flint [ashby]** | Software Engineer | San Francisco | https://jobs.ashbyhq.com/flint/0f65ed4b-2de8-4603-8295-8c2ea9438a88
 - **flowtraders** | Core Data Engineer | New York | https://job-boards.greenhouse.io/flowtraders/jobs/8304623
@@ -1979,6 +1997,7 @@
 - **gitlab** | Backend Engineer, GitLab Orbit | Remote, Canada; Remote, United States | https://job-boards.greenhouse.io/gitlab/jobs/8771512002
 - **gitlab** | Backend Engineer, Trusted Agentic Development | Remote, Poland | https://job-boards.greenhouse.io/gitlab/jobs/8760233002
 - **gitlab** | Cloud Platform Engineer | Remote, Canada; Remote, United States | https://job-boards.greenhouse.io/gitlab/jobs/8889193002
+- **gitlab** | Data Scientist, Enterprise Analytics | Remote, United Kingdom | https://job-boards.greenhouse.io/gitlab/jobs/8963786002
 - **gitlab** | Fullstack Engineer, Source Code: Repository Services (Ruby) | Remote, United Kingdom | https://job-boards.greenhouse.io/gitlab/jobs/8912709002
 - **gitlab** | Fullstack Engineer, Source Code: Repository Services (Ruby)  | Remote, Canada | https://job-boards.greenhouse.io/gitlab/jobs/8922427002
 - **gitlab** | Intermediate Backend Engineer , Security Factory | Bangalore, India | https://job-boards.greenhouse.io/gitlab/jobs/8890971002
@@ -1998,8 +2017,8 @@
 - **gitlab** | Staff Forward Deployed Engineer, EMEA | Remote Ireland; Remote, Austria; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom | https://job-boards.greenhouse.io/gitlab/jobs/8936153002
 - **gitlab** | Staff Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)    | Bangalore, India | https://job-boards.greenhouse.io/gitlab/jobs/8615268002
 - **gitlab** | Staff Site Reliability Engineer, Environment Automation  | Bangalore, India | https://job-boards.greenhouse.io/gitlab/jobs/8800489002
-- **gitlab** | Staff Solutions Architect, AI Subject Matter Expert | Remote, United States | https://job-boards.greenhouse.io/gitlab/jobs/8886426002
 - **gitlab** | Staff Solutions Architect, AI Subject Matter Expert | Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom | https://job-boards.greenhouse.io/gitlab/jobs/8860196002
+- **gitlab** | Staff Solutions Architect, AI Subject Matter Expert | Remote, United States | https://job-boards.greenhouse.io/gitlab/jobs/8886426002
 - **gitlab** | Strategic Account Executive - AI, San Francisco    | Remote, United States | https://job-boards.greenhouse.io/gitlab/jobs/8895523002
 - **gitlab** | Threat Research Engineer, Security Factory: Threat Research | Remote, Israel; Remote, Poland; Remote, United Kingdom | https://job-boards.greenhouse.io/gitlab/jobs/8891698002
 - **goaly [ashby]** | AI Research Scientist - Early Career (PHD/MS) | Palo Alto, CA, USA | https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37
@@ -2738,23 +2757,11 @@
 - **magnetforensics [lever]** | Platform Sales Consultant (Bilingual Spanish or Italian) | United Kingdom | https://jobs.lever.co/magnetforensics/5b6b7598-59cd-46c7-9831-ece3c549a121
 - **magnetforensics [lever]** | Software Developer Co-op (Winter 2027) | Waterloo / Ottawa / Ontario | https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52
 - **magnetforensics [lever]** | Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities) | Waterloo, Ontario | https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b
-- **matchgroup [lever]** | Android Engineer III | New York, New York | https://jobs.lever.co/matchgroup/cb977666-1e41-4098-ad9c-6ab387e56a7a
-- **matchgroup [lever]** | Android Engineer Intern | Los Angeles, California | https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d
-- **matchgroup [lever]** | Back-end Engineer, Product (Go) | Tokyo | https://jobs.lever.co/matchgroup/4f3e70ea-d843-4666-844a-c0ba07f2033f
-- **matchgroup [lever]** | Back-end Engineer, Trust & Safety (Go) | Tokyo | https://jobs.lever.co/matchgroup/750053cb-5ace-444a-9c64-070fb4d46439
-- **matchgroup [lever]** | Backend Engineer Intern | Palo Alto, California | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3
-- **matchgroup [lever]** | Data Science Internship | Ghent, Belgium | https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870
-- **matchgroup [lever]** | Data Scientist Intern | San Francisco, California | https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff
-- **matchgroup [lever]** | Finance Business Intelligence Analyst | Tokyo | https://jobs.lever.co/matchgroup/69aeeccb-bb9d-439b-9931-cd24cf682d44
-- **matchgroup [lever]** | iOS Engineer Intern | Los Angeles, California | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef
-- **matchgroup [lever]** | Machine Learning Engineer (Match Group AI) | Seoul, South Korea | https://jobs.lever.co/matchgroup/2196948b-9338-4943-acba-cb529335ed16
-- **matchgroup [lever]** | Machine Learning Engineer Intern | Palo Alto, California | https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72
-- **matchgroup [lever]** | ML Ops Engineer, AI Platform | Tokyo | https://jobs.lever.co/matchgroup/a5c7d9c1-c8ef-47d1-aef0-af6bc111ea6e
-- **matchgroup [lever]** | Platform Engineer | Vancouver, British Columbia | https://jobs.lever.co/matchgroup/a086e742-7817-4abf-a22f-d00d10567bc6
-- **matchgroup [lever]** | Product Data Analyst | Tokyo | https://jobs.lever.co/matchgroup/e5d6bda0-c185-4eb0-b25d-47df6cc0c3a1
-- **matchgroup [lever]** | Software Engineer II, Backend | Los Angeles, California | https://jobs.lever.co/matchgroup/990882fc-4d03-4a49-b16c-4af72b8a2094
-- **matchgroup [lever]** | Software Engineer, Android | Los Angeles, California | https://jobs.lever.co/matchgroup/32b18f00-af1a-4067-ad7d-9cba43711d2e
-- **matchgroup [lever]** | Staff, Machine Learning Research Scientist (Azar) | Seoul, South Korea | https://jobs.lever.co/matchgroup/78fa5852-c5ae-42f2-b72a-9c791fcfdd1d
+- **marvell [workday]** | AI Infrastructure Engineer Intern, MS - Summer 2027 | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829
+- **marvell [workday]** | Applied AI/ML Research Scientist Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847
+- **marvell [workday]** | Firmware Engineer Intern, BS - Summer 2027 | 2 Locations | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1
+- **marvell [workday]** | Firmware Engineer Intern, MS - Summer 2027 | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1
+- **marvell [workday]** | Firmware Engineering Intern | Pavia, Italy | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Pavia-Italy/Firmware-Engineering-Intern_2603916
 - **meow [ashby]** | Software Engineer  | New York City | https://jobs.ashbyhq.com/meow/0db09b6a-9ee7-4787-997c-5aace86322d1
 - **meow [ashby]** | Software Engineer - December 2026 Graduates | New York City | https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218
 - **mercury** | Revenue Strategy Associate - AI Solutions Consulting | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | https://job-boards.greenhouse.io/mercury/jobs/5806201004
@@ -4298,24 +4305,24 @@
 - **rubrik** | Software Engineer, Atlas Distributed Systems  | Palo Alto, CA | https://www.rubrik.com/company/careers/departments/job.8122613?gh_jid=8122613
 - **ruggedrobotics** | Robotic Software Intern/Co-op (Spring or Summer 2027) | Houston, TX | https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005
 - **samsara** | AI Engineer, Customer Success | Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle | https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110
-- **samsara** | Data Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423
 - **samsara** | Data Engineer | Remote - US | https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959
+- **samsara** | Data Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423
 - **samsara** | Head of Data Science | Remote - SF Bay Area | https://www.samsara.com/company/careers/roles/8329357?gh_jid=8329357
 - **samsara** | People Analytics AI Engineer | Remote - DC; Remote - NYC; Remote - Seattle; Remote - SF Bay Area | https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719
-- **samsara** | Software Engineer - Data Platform | Remote - US | https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530
 - **samsara** | Software Engineer - Data Platform | Remote - Canada | https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889
-- **samsara** | Software Engineer II | Remote - Canada | https://www.samsara.com/company/careers/roles/8412814?gh_jid=8412814
+- **samsara** | Software Engineer - Data Platform | Remote - US | https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530
 - **samsara** | Software Engineer II | Remote - US | https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645
+- **samsara** | Software Engineer II | Remote - Canada | https://www.samsara.com/company/careers/roles/8412814?gh_jid=8412814
 - **samsara** | Software Engineering Internship - San Francisco  | San Francisco - SF9 | https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786
 - **samsara** | Specialist Seller, Enterprise Core (AI Products) | Remote - DC | https://www.samsara.com/company/careers/roles/7982336?gh_jid=7982336
-- **samsara** | Specialist Seller, Enterprise Core (AI Products) | Atlanta, Georgia, United States; Remote - Chicago; Remote - MA; Remote - TX | https://www.samsara.com/company/careers/roles/7960413?gh_jid=7960413
 - **samsara** | Specialist Seller, Enterprise Core (AI Products) | Remote - NY | https://www.samsara.com/company/careers/roles/7982331?gh_jid=7982331
+- **samsara** | Specialist Seller, Enterprise Core (AI Products) | Atlanta, Georgia, United States; Remote - Chicago; Remote - MA; Remote - TX | https://www.samsara.com/company/careers/roles/7960413?gh_jid=7960413
 - **samsara** | Staff Application Security Engineer | Remote - Dallas | https://www.samsara.com/company/careers/roles/8205149?gh_jid=8205149
-- **samsara** | Staff Application Security Engineer | Remote - NYC | https://www.samsara.com/company/careers/roles/8205146?gh_jid=8205146
-- **samsara** | Staff Application Security Engineer | Remote - DC | https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139
-- **samsara** | Staff Application Security Engineer | Atlanta, Georgia, United States; Remote - FL; Remote - PA | https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183
-- **samsara** | Staff Application Security Engineer | Remote - Seattle | https://www.samsara.com/company/careers/roles/8205118?gh_jid=8205118
 - **samsara** | Staff Application Security Engineer | United Kingdom | https://www.samsara.com/company/careers/roles/8180630?gh_jid=8180630
+- **samsara** | Staff Application Security Engineer | Remote - Seattle | https://www.samsara.com/company/careers/roles/8205118?gh_jid=8205118
+- **samsara** | Staff Application Security Engineer | Remote - DC | https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139
+- **samsara** | Staff Application Security Engineer | Remote - NYC | https://www.samsara.com/company/careers/roles/8205146?gh_jid=8205146
+- **samsara** | Staff Application Security Engineer | Atlanta, Georgia, United States; Remote - FL; Remote - PA | https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183
 - **samsungresearchamericainternship** | 2027 Health AI Scholar, Digital Health Algorithms Team | 665 Clyde Avenue, Mountain View,  CA, USA | https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002
 - **samsungresearchamericainternship** | 2027 Spring Intern, Robotics Lab | 665 Clyde Avenue, Mountain View,  CA, USA | https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002
 - **samsungresearchamericainternship** | 2027 Spring/Summer Intern, Computer Vision | 665 Clyde Avenue, Mountain View,  CA, USA | https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002
@@ -4972,50 +4979,50 @@
 - **spacex** | RF Software Engineer (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002
 - **spacex** | Satellite On-Orbit Operations Software Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002
 - **spacex** | Satellite Systems Software Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002
-- **spacex** | Security Engineer | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8893742002?gh_jid=8893742002
 - **spacex** | Security Engineer | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8893743002?gh_jid=8893743002
 - **spacex** | Security Engineer | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8567571002?gh_jid=8567571002
+- **spacex** | Security Engineer | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8893742002?gh_jid=8893742002
 - **spacex** | Security Engineer (Blue Team) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8611050002?gh_jid=8611050002
 - **spacex** | Security Engineer (Blue Team) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8611223002?gh_jid=8611223002
 - **spacex** | Security Engineer (Detection Engineering) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8959556002?gh_jid=8959556002
 - **spacex** | Security Engineer (Detection Engineering) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8650242002?gh_jid=8650242002
 - **spacex** | Security Engineer (Infrastructure) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8893745002?gh_jid=8893745002
-- **spacex** | Security Engineer (OT) | Cape Canaveral, FL | https://boards.greenhouse.io/spacex/jobs/8854691002?gh_jid=8854691002
 - **spacex** | Security Engineer (OT) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8893744002?gh_jid=8893744002
+- **spacex** | Security Engineer (OT) | Cape Canaveral, FL | https://boards.greenhouse.io/spacex/jobs/8854691002?gh_jid=8854691002
 - **spacex** | Security Engineer (Red Team) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8847094002?gh_jid=8847094002
-- **spacex** | Security Engineer (Software) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8893741002?gh_jid=8893741002
 - **spacex** | Security Engineer (Software) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8893740002?gh_jid=8893740002
+- **spacex** | Security Engineer (Software) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8893741002?gh_jid=8893741002
 - **spacex** | Security Engineer (Vulnerability Management) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8843974002?gh_jid=8843974002
-- **spacex** | Security Software Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002
 - **spacex** | Security Software Engineer (Starlink) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002
 - **spacex** | Security Software Engineer (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002
-- **spacex** | Security Software Engineer (Starshield) | Washington, DC | https://boards.greenhouse.io/spacex/jobs/8795665002?gh_jid=8795665002
+- **spacex** | Security Software Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002
 - **spacex** | Security Software Engineer (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8795658002?gh_jid=8795658002
+- **spacex** | Security Software Engineer (Starshield) | Washington, DC | https://boards.greenhouse.io/spacex/jobs/8795665002?gh_jid=8795665002
 - **spacex** | Security Software Engineer - Top Secret Clearance | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8564158002?gh_jid=8564158002
+- **spacex** | Server Hardware Systems Engineer (Starlink) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8934135002?gh_jid=8934135002
 - **spacex** | Server Hardware Systems Engineer (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8934113002?gh_jid=8934113002
 - **spacex** | Server Hardware Systems Engineer (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8934140002?gh_jid=8934140002
 - **spacex** | Server Hardware Systems Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8934139002?gh_jid=8934139002
-- **spacex** | Server Hardware Systems Engineer (Starlink) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8934135002?gh_jid=8934135002
 - **spacex** | Simulation Software Engineer (Vehicle Engineering)  | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8829312002?gh_jid=8829312002
 - **spacex** | Site Reliability Engineer | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8930443002?gh_jid=8930443002
 - **spacex** | Site Reliability Engineer (Application Software) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8929638002?gh_jid=8929638002
 - **spacex** | Site Reliability Engineer (High Performance Computing)  | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8831632002?gh_jid=8831632002
 - **spacex** | Site Reliability Engineer (Infrastructure, Virtualization, & Compute) | Memphis, TN | https://boards.greenhouse.io/spacex/jobs/8931114002?gh_jid=8931114002
 - **spacex** | Site Reliability Engineer (Raptor)  | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8633999002?gh_jid=8633999002
+- **spacex** | Site Reliability Engineer (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8932368002?gh_jid=8932368002
 - **spacex** | Site Reliability Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8932369002?gh_jid=8932369002
 - **spacex** | Site Reliability Engineer (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8886620002?gh_jid=8886620002
-- **spacex** | Site Reliability Engineer (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8932368002?gh_jid=8932368002
 - **spacex** | Site Reliability Engineer (Top Secret Clearance) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8601223002?gh_jid=8601223002
 - **spacex** | Site Reliability Engineer — HPC & Automation (Silicon Engineering) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8614963002?gh_jid=8614963002
-- **spacex** | Site Reliability Engineer, AI Infrastructure (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8807493002?gh_jid=8807493002
-- **spacex** | Site Reliability Engineer, AI Infrastructure (Starshield) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8829681002?gh_jid=8829681002
 - **spacex** | Site Reliability Engineer, AI Infrastructure (Starshield) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8807795002?gh_jid=8807795002
+- **spacex** | Site Reliability Engineer, AI Infrastructure (Starshield) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8829681002?gh_jid=8829681002
+- **spacex** | Site Reliability Engineer, AI Infrastructure (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8807493002?gh_jid=8807493002
 - **spacex** | Site Reliability Engineer, AI Infrastructure (Starshield) | Washington, DC | https://boards.greenhouse.io/spacex/jobs/8807783002?gh_jid=8807783002
 - **spacex** | Site Reliability Engineer, Data Center Infrastructure  | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8880672002?gh_jid=8880672002
 - **spacex** | Site Reliability Engineer, GNC (Falcon) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8944232002?gh_jid=8944232002
 - **spacex** | Site Reliability Engineer, Kubernetes  | Memphis, TN | https://boards.greenhouse.io/spacex/jobs/8930994002?gh_jid=8930994002
-- **spacex** | Site Reliability Engineer, Kubernetes Platform (Starshield) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8597472002?gh_jid=8597472002
 - **spacex** | Site Reliability Engineer, Kubernetes Platform (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8597455002?gh_jid=8597455002
+- **spacex** | Site Reliability Engineer, Kubernetes Platform (Starshield) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8597472002?gh_jid=8597472002
 - **spacex** | Site Reliability Engineer, Kubernetes Platform (Top Secret Clearance) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8843951002?gh_jid=8843951002
 - **spacex** | Site Reliability Engineer, Platform Infrastructure  | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8776746002?gh_jid=8776746002
 - **spacex** | Software Development Test Engineer (Starlink) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8675233002?gh_jid=8675233002
@@ -5027,19 +5034,19 @@
 - **spacex** | Software Engineer (Components) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8842775002?gh_jid=8842775002
 - **spacex** | Software Engineer (Controls Software) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002
 - **spacex** | Software Engineer (Platform Team) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002
-- **spacex** | Software Engineer (Platform Team) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002
-- **spacex** | Software Engineer (Platform Team) | Sunnyvale, CA | https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002
 - **spacex** | Software Engineer (Platform Team) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8940469002?gh_jid=8940469002
 - **spacex** | Software Engineer (Platform Team) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8940470002?gh_jid=8940470002
 - **spacex** | Software Engineer (Platform Team) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8940471002?gh_jid=8940471002
+- **spacex** | Software Engineer (Platform Team) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002
+- **spacex** | Software Engineer (Platform Team) | Sunnyvale, CA | https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002
 - **spacex** | Software Engineer (Special Projects) - Top Secret Clearance | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8568970002?gh_jid=8568970002
 - **spacex** | Software Engineer (Starfall) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8642274002?gh_jid=8642274002
 - **spacex** | Software Engineer (Starlink Enterprise) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002
 - **spacex** | Software Engineer (Starlink Mobile) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002
 - **spacex** | Software Engineer (Starlink Mobile)  | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8567634002?gh_jid=8567634002
-- **spacex** | Software Engineer (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8706510002?gh_jid=8706510002
-- **spacex** | Software Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8584271002?gh_jid=8584271002
 - **spacex** | Software Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8922361002?gh_jid=8922361002
+- **spacex** | Software Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8584271002?gh_jid=8584271002
+- **spacex** | Software Engineer (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8706510002?gh_jid=8706510002
 - **spacex** | Software Engineer (Starlink)  | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8569790002?gh_jid=8569790002
 - **spacex** | Software Engineer (Starlink/Akoustis) | Canandaigua, NY  | https://boards.greenhouse.io/spacex/jobs/8696779002?gh_jid=8696779002
 - **spacex** | Software Engineer (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002
@@ -5049,58 +5056,58 @@
 - **spacex** | Software Engineer (Starship) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8937000002?gh_jid=8937000002
 - **spacex** | Software Engineer (Thermal & Fluid Analysis)  | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002
 - **spacex** | Software Engineer - Simulation & Flight Systems | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002
-- **spacex** | Software Engineer, AI Infrastructure (Starshield) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8861903002?gh_jid=8861903002
-- **spacex** | Software Engineer, AI Infrastructure (Starshield) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8861902002?gh_jid=8861902002
 - **spacex** | Software Engineer, AI Infrastructure (Starshield) | Washington, DC | https://boards.greenhouse.io/spacex/jobs/8861901002?gh_jid=8861901002
 - **spacex** | Software Engineer, AI Infrastructure (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8861900002?gh_jid=8861900002
+- **spacex** | Software Engineer, AI Infrastructure (Starshield) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8861902002?gh_jid=8861902002
+- **spacex** | Software Engineer, AI Infrastructure (Starshield) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8861903002?gh_jid=8861903002
 - **spacex** | Software Engineer, AI Satellites (Starmind) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002
 - **spacex** | Software Engineer, Alerts (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8948735002?gh_jid=8948735002
 - **spacex** | Software Engineer, Application Software - Memphis | Memphis, TN | https://boards.greenhouse.io/spacex/jobs/8763491002?gh_jid=8763491002
 - **spacex** | Software Engineer, Applied AI (Starlink)  | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002
 - **spacex** | Software Engineer, Backend (C/C++) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8672397002?gh_jid=8672397002
 - **spacex** | Software Engineer, Backend (Python/C++) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8845089002?gh_jid=8845089002
-- **spacex** | Software Engineer, Beam Planning (Starlink)    | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8962728002?gh_jid=8962728002
 - **spacex** | Software Engineer, Beam Planning (Starlink)    | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8962750002?gh_jid=8962750002
+- **spacex** | Software Engineer, Beam Planning (Starlink)    | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8962728002?gh_jid=8962728002
 - **spacex** | Software Engineer, C++ (Dragon) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002
 - **spacex** | Software Engineer, C++ (Raptor)  | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8598038002?gh_jid=8598038002
 - **spacex** | Software Engineer, C++ (Simulations)  | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8829309002?gh_jid=8829309002
-- **spacex** | Software Engineer, C++ (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8938571002?gh_jid=8938571002
 - **spacex** | Software Engineer, C++ (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8938572002?gh_jid=8938572002
+- **spacex** | Software Engineer, C++ (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8938571002?gh_jid=8938571002
 - **spacex** | Software Engineer, C++ Simulations (Starlink)  | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8682197002?gh_jid=8682197002
-- **spacex** | Software Engineer, CDN (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8656579002?gh_jid=8656579002
-- **spacex** | Software Engineer, CDN (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002
 - **spacex** | Software Engineer, CDN (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8756159002?gh_jid=8756159002
+- **spacex** | Software Engineer, CDN (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002
+- **spacex** | Software Engineer, CDN (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8656579002?gh_jid=8656579002
 - **spacex** | Software Engineer, Collision Avoidance (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8749208002?gh_jid=8749208002
 - **spacex** | Software Engineer, Components (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8625617002?gh_jid=8625617002
 - **spacex** | Software Engineer, Components Test (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8625615002?gh_jid=8625615002
 - **spacex** | Software Engineer, Data (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002
 - **spacex** | Software Engineer, Data - Top Secret Clearance (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8640537002?gh_jid=8640537002
 - **spacex** | Software Engineer, Design Engineering (Starlink)  | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8637713002?gh_jid=8637713002
-- **spacex** | Software Engineer, Design Software (Starship) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8950626002?gh_jid=8950626002
 - **spacex** | Software Engineer, Design Software (Starship) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8949395002?gh_jid=8949395002
+- **spacex** | Software Engineer, Design Software (Starship) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8950626002?gh_jid=8950626002
 - **spacex** | Software Engineer, Development Test (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8943795002?gh_jid=8943795002
 - **spacex** | Software Engineer, DevOps (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8573204002?gh_jid=8573204002
 - **spacex** | Software Engineer, Embedded Software (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8752598002?gh_jid=8752598002
 - **spacex** | Software Engineer, Flight Software (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002
-- **spacex** | Software Engineer, Flight Software (Starship) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8963078002?gh_jid=8963078002
-- **spacex** | Software Engineer, Flight Software (Starship) | Cape Canaveral, FL | https://boards.greenhouse.io/spacex/jobs/8963079002?gh_jid=8963079002
 - **spacex** | Software Engineer, Flight Software (Starship) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8802854002?gh_jid=8802854002
+- **spacex** | Software Engineer, Flight Software (Starship) | Cape Canaveral, FL | https://boards.greenhouse.io/spacex/jobs/8963079002?gh_jid=8963079002
+- **spacex** | Software Engineer, Flight Software (Starship) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8963078002?gh_jid=8963078002
 - **spacex** | Software Engineer, Flight Software C++ (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8593183002?gh_jid=8593183002
 - **spacex** | Software Engineer, Full Stack (Data & Video Analysis) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002
 - **spacex** | Software Engineer, Ground Network (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8958880002?gh_jid=8958880002
 - **spacex** | Software Engineer, Hardware Test & Automation (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8565155002?gh_jid=8565155002
 - **spacex** | Software Engineer, Hardware Test & Automation (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002
 - **spacex** | Software Engineer, High Performance Computing | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002
-- **spacex** | Software Engineer, High Performance Computing (Starlink)    | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8962752002?gh_jid=8962752002
 - **spacex** | Software Engineer, High Performance Computing (Starlink)    | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8962753002?gh_jid=8962753002
+- **spacex** | Software Engineer, High Performance Computing (Starlink)    | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8962752002?gh_jid=8962752002
 - **spacex** | Software Engineer, HITL - Top Secret Clearance | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8749210002?gh_jid=8749210002
 - **spacex** | Software Engineer, Inference (AI Data Engineering) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002
 - **spacex** | Software Engineer, Internal Applications | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8812137002?gh_jid=8812137002
-- **spacex** | Software Engineer, Linux Kernel (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8852114002?gh_jid=8852114002
 - **spacex** | Software Engineer, Linux Kernel (Starlink) | Bellevue, WA | https://boards.greenhouse.io/spacex/jobs/8852121002?gh_jid=8852121002
 - **spacex** | Software Engineer, Linux Kernel (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8852119002?gh_jid=8852119002
-- **spacex** | Software Engineer, Low Latency Computing (Starlink)    | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8962756002?gh_jid=8962756002
+- **spacex** | Software Engineer, Linux Kernel (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8852114002?gh_jid=8852114002
 - **spacex** | Software Engineer, Low Latency Computing (Starlink)    | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8962757002?gh_jid=8962757002
+- **spacex** | Software Engineer, Low Latency Computing (Starlink)    | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8962756002?gh_jid=8962756002
 - **spacex** | Software Engineer, Manufacturing | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8928919002?gh_jid=8928919002
 - **spacex** | Software Engineer, Manufacturing Infrastructure | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8848613002?gh_jid=8848613002
 - **spacex** | Software Engineer, Mobile Apps (Starlink)  | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8637756002?gh_jid=8637756002
@@ -5115,23 +5122,23 @@
 - **spacex** | Software Engineer, Starlink Network | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8938556002?gh_jid=8938556002
 - **spacex** | Software Engineer, Starlink Network | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8938574002?gh_jid=8938574002
 - **spacex** | Software Engineer, Starlink UX (Starlink)  | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8637755002?gh_jid=8637755002
-- **spacex** | Software Engineer, Supercomputer Network (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8852122002?gh_jid=8852122002
 - **spacex** | Software Engineer, Supercomputer Network (Starlink) | Bellevue, WA | https://boards.greenhouse.io/spacex/jobs/8852123002?gh_jid=8852123002
+- **spacex** | Software Engineer, Supercomputer Network (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8852122002?gh_jid=8852122002
 - **spacex** | Software Engineer, Telemetry (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8656526002?gh_jid=8656526002
 - **spacex** | Software Engineer, Telemetry (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002
-- **spacex** | Software Engineer, Telemetry - Top Secret Clearance (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8656274002?gh_jid=8656274002
 - **spacex** | Software Engineer, Telemetry - Top Secret Clearance (Starlink) | Washington, DC | https://boards.greenhouse.io/spacex/jobs/8918317002?gh_jid=8918317002
+- **spacex** | Software Engineer, Telemetry - Top Secret Clearance (Starlink) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8656274002?gh_jid=8656274002
 - **spacex** | Software Engineer, Test Engineering and Operations | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8796056002?gh_jid=8796056002
 - **spacex** | Software Engineer, Test Infrastructure (Application Software) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8585072002?gh_jid=8585072002
 - **spacex** | Software Engineer, Test Infrastructure (C/C++) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8637049002?gh_jid=8637049002
 - **spacex** | Software Engineer, Tracking (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8749199002?gh_jid=8749199002
 - **spacex** | Software Engineer, Vehicle Operations (Starshield) | Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002
 - **spacex** | Software Engineer, Wireless Validation (Starlink Mobile)  | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002
-- **spacex** | Software Infrastructure Engineer (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002
 - **spacex** | Software Infrastructure Engineer (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8573279002?gh_jid=8573279002
+- **spacex** | Software Infrastructure Engineer (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002
 - **spacex** | Software Infrastructure Engineer, Flight Software (Starlink) | Redmond, WA | https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002
-- **spacex** | Sourcing Specialist (Compute Infrastructure) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8949110002?gh_jid=8949110002
 - **spacex** | Sourcing Specialist (Compute Infrastructure) | Austin, TX | https://boards.greenhouse.io/spacex/jobs/8952158002?gh_jid=8952158002
+- **spacex** | Sourcing Specialist (Compute Infrastructure) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8949110002?gh_jid=8949110002
 - **spacex** | Sourcing Specialist (Network Infrastructure) | Austin, TX | https://boards.greenhouse.io/spacex/jobs/8952164002?gh_jid=8952164002
 - **spacex** | Sourcing Specialist (Network Infrastructure) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8949135002?gh_jid=8949135002
 - **spacex** | Sourcing Specialist, Infrastructure (Supercomputer) | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8910434002?gh_jid=8910434002
@@ -5146,11 +5153,11 @@
 - **spacex** | Supervisor, IT Network Infrastructure - 2nd Shift | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8818980002?gh_jid=8818980002
 - **spacex** | Thermal Engineer, AI Satellites (Starmind) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8728358002?gh_jid=8728358002
 - **spacex** | Tooling Engineer, AI Satellites (Starmind) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8727903002?gh_jid=8727903002
-- **spacex** | Trader, Natural Gas (Supply Chain)  | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8731013002?gh_jid=8731013002
 - **spacex** | Trader, Natural Gas (Supply Chain)  | Cape Canaveral, FL | https://boards.greenhouse.io/spacex/jobs/8730731002?gh_jid=8730731002
+- **spacex** | Trader, Natural Gas (Supply Chain)  | Starbase, TX | https://boards.greenhouse.io/spacex/jobs/8731013002?gh_jid=8731013002
 - **spacex** | Voice Systems Engineer | Memphis, TN | https://boards.greenhouse.io/spacex/jobs/8919948002?gh_jid=8919948002
-- **spacex** | Wi-Fi Software Engineer (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002
 - **spacex** | Wi-Fi Software Engineer (Starlink) | Bastrop, TX | https://boards.greenhouse.io/spacex/jobs/8715500002?gh_jid=8715500002
+- **spacex** | Wi-Fi Software Engineer (Starlink) | Palo Alto, CA | https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002
 - **spotify [lever]** | AV Engineer - Platform | Stockholm | https://jobs.lever.co/spotify/785989a6-b219-43b1-92d9-750a67054f24
 - **spotify [lever]** | Backend Engineer - Data Infrastructure | New York, NY | https://jobs.lever.co/spotify/ced2c220-6b5c-4e74-8e06-37d50985097c
 - **spotify [lever]** | Backend Engineer - Data Platform | Stockholm | https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7
@@ -5260,12 +5267,6 @@
 - **stratolaunch** | Environmental Test Systems Engineer (LabVIEW) | Mojave, California, United States | https://job-boards.greenhouse.io/stratolaunch/jobs/5294697008
 - **stratolaunch** | MLO Engineer (Machine Learning Operations) | Mojave, California, United States | https://job-boards.greenhouse.io/stratolaunch/jobs/5477299008
 - **stratolaunch** | Systems Engineer | Mojave, California, United States | https://job-boards.greenhouse.io/stratolaunch/jobs/5159784008
-- **Strava [ashby]** | Software Engineering Intern, AI/ML Data Products   | Strava SF | https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023
-- **Strava [ashby]** | Software Engineering Intern, Android, Subscriptions   | Strava SF | https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c
-- **Strava [ashby]** | Software Engineering Intern, Server, Comms | Strava SF | https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126
-- **Strava [ashby]** | Software Engineering Intern, Server, Next Sports  | Strava SF | https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9
-- **Strava [ashby]** | Software Engineering Intern, Server, Security | Strava SF | https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b
-- **Strava [ashby]** | Software Engineering Intern, Server, User Lifecycle | Strava SF | https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a
 - **Strava [ashby]** | Staff AI Engineer | Strava SF | https://jobs.ashbyhq.com/Strava/dc37642d-399e-49a3-853f-81fdc0eee2b4
 - **stripe** | 	Backend / API Engineer, Radar | Toronto | https://stripe.com/jobs/search?gh_jid=8301379
 - **stripe** |  Account Executive, Platforms (Hunter) | London | https://stripe.com/jobs/search?gh_jid=8249652
@@ -5296,10 +5297,10 @@
 - **stripe** | Account Executive, Scaled Hunter – Startup SaaS Platforms (ROE) | Dublin  | https://stripe.com/jobs/search?gh_jid=8319461
 - **stripe** | Account Executive, Startup Platforms (Grower) | Chicago, IL | https://stripe.com/jobs/search?gh_jid=8237540
 - **stripe** | Account Executive, Startups Platforms Scaled Grower (French fluency) | Dublin | https://stripe.com/jobs/search?gh_jid=8119498
-- **stripe** | Account Executive, Velocity Platforms (Hunter) | San Francisco, CA | https://stripe.com/jobs/search?gh_jid=8304841
 - **stripe** | Account Executive, Velocity Platforms (Hunter) | New York, NY | https://stripe.com/jobs/search?gh_jid=8304836
-- **stripe** | Account Executive, Velocity Platforms (Hunter) | Chicago, IL | https://stripe.com/jobs/search?gh_jid=8267841
 - **stripe** | Account Executive, Velocity Platforms (Hunter) | Chicago, IL; New York, NY; San Francisco, CA | https://stripe.com/jobs/search?gh_jid=8267839
+- **stripe** | Account Executive, Velocity Platforms (Hunter) | San Francisco, CA | https://stripe.com/jobs/search?gh_jid=8304841
+- **stripe** | Account Executive, Velocity Platforms (Hunter) | Chicago, IL | https://stripe.com/jobs/search?gh_jid=8267841
 - **stripe** | AI Engineer | Chicago | https://stripe.com/jobs/search?gh_jid=8144196
 - **stripe** | AMER Data Analyst - Sales Strategy and Operations | Chicago, US Remote, SF, NYC, Seattle | https://stripe.com/jobs/search?gh_jid=8354566
 - **stripe** | Analytics Engineer | New York | https://stripe.com/jobs/search?gh_jid=8415333
@@ -5319,14 +5320,14 @@
 - **stripe** | Blockchain Security Engineer, Bridge | Luxembourg | https://stripe.com/jobs/search?gh_jid=8336819
 - **stripe** | Channel Sales Executive, SaaS Platforms | Chicago | https://stripe.com/jobs/search?gh_jid=8126984
 - **stripe** | Cloud Security Engineer | Seattle | https://stripe.com/jobs/search?gh_jid=7867389
-- **stripe** | Data Analyst | US | https://stripe.com/jobs/search?gh_jid=5601881
 - **stripe** | Data Analyst | Canada | https://stripe.com/jobs/search?gh_jid=5416444
+- **stripe** | Data Analyst | US | https://stripe.com/jobs/search?gh_jid=5601881
 - **stripe** | Data Analyst, Intern | Toronto | https://stripe.com/jobs/search?gh_jid=8194287
 - **stripe** | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | https://stripe.com/jobs/search?gh_jid=8194291
 - **stripe** | Data Analyst, SF | San Francisco | https://stripe.com/jobs/search?gh_jid=8189909
-- **stripe** | Data Scientist | Singapore | https://stripe.com/jobs/search?gh_jid=8043052
 - **stripe** | Data Scientist | Toronto | https://stripe.com/jobs/search?gh_jid=5895430
 - **stripe** | Data Scientist | N/A | https://stripe.com/jobs/search?gh_jid=5601879
+- **stripe** | Data Scientist | Singapore | https://stripe.com/jobs/search?gh_jid=8043052
 - **stripe** | Designer, Web Presence & Platform | Canada | https://stripe.com/jobs/search?gh_jid=8397257
 - **stripe** | EMEA Demand Generation, Platforms  | London | https://stripe.com/jobs/search?gh_jid=8209626
 - **stripe** | Enterprise Account Executive: Platforms (Hunter) - German Speaking  | Berlin | https://stripe.com/jobs/search?gh_jid=8319481
@@ -5338,8 +5339,8 @@
 - **stripe** | Full Stack Engineer, Bridge | San Francisco, NYC | https://stripe.com/jobs/search?gh_jid=8142764
 - **stripe** | Full Stack Engineer, Developer & End User Experience Platform | N/A | https://stripe.com/jobs/search?gh_jid=6567104
 - **stripe** | Full Stack Engineer, Enterprise & Ecosystem | N/A | https://stripe.com/jobs/search?gh_jid=8118929
-- **stripe** | Full Stack Engineer, Enterprise Engineering | N/A | https://stripe.com/jobs/search?gh_jid=8214616
 - **stripe** | Full Stack Engineer, Enterprise Engineering | N/A | https://stripe.com/jobs/search?gh_jid=8214618
+- **stripe** | Full Stack Engineer, Enterprise Engineering | N/A | https://stripe.com/jobs/search?gh_jid=8214616
 - **stripe** | Full Stack Engineer, Link | Toronto | https://stripe.com/jobs/search?gh_jid=6447175
 - **stripe** | Full Stack Engineer, Money Movement | London | https://stripe.com/jobs/search?gh_jid=8226261
 - **stripe** | Full Stack Engineer, Revenue | N/A | https://stripe.com/jobs/search?gh_jid=8234357
@@ -5359,8 +5360,8 @@
 - **stripe** | Machine Learning Engineer, Link | New York City  | https://stripe.com/jobs/search?gh_jid=8197886
 - **stripe** | Machine Learning Engineer, Radar | Seattle | https://stripe.com/jobs/search?gh_jid=8243617
 - **stripe** | Machine Learning Engineer, Transaction Risk | Seattle, New York City | https://stripe.com/jobs/search?gh_jid=8187574
-- **stripe** | Master's Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | https://stripe.com/jobs/search?gh_jid=8333074
 - **stripe** | Master's Machine Learning Engineer, Intern | Toronto | https://stripe.com/jobs/search?gh_jid=8333122
+- **stripe** | Master's Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | https://stripe.com/jobs/search?gh_jid=8333074
 - **stripe** | Offensive Security Engineer | US - Remote | https://stripe.com/jobs/search?gh_jid=8233889
 - **stripe** | Partner Solutions Engineer, Ecosystem | US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote | https://stripe.com/jobs/search?gh_jid=8227563
 - **stripe** | PhD Data Scientist, Intern | Toronto | https://stripe.com/jobs/search?gh_jid=8194285
@@ -5369,37 +5370,38 @@
 - **stripe** | PhD Machine Learning Engineer, Intern | Toronto | https://stripe.com/jobs/search?gh_jid=8328664
 - **stripe** | Security Engineer  | US Remote  | https://stripe.com/jobs/search?gh_jid=8174965
 - **stripe** | Security Engineer, ACE | Dublin, Ireland | https://stripe.com/jobs/search?gh_jid=8174984
-- **stripe** | Security Engineer, Bridge | SF, New York, Seattle | https://stripe.com/jobs/search?gh_jid=7776179
 - **stripe** | Security Engineer, Bridge | Luxembourg | https://stripe.com/jobs/search?gh_jid=8209307
+- **stripe** | Security Engineer, Bridge | SF, New York, Seattle | https://stripe.com/jobs/search?gh_jid=7776179
 - **stripe** | Security Engineer, New Grad | Dublin | https://stripe.com/jobs/search?gh_jid=8257892
 - **stripe** | Security Engineer, Privy | NYC-Privy | https://stripe.com/jobs/search?gh_jid=8306475
+- **stripe** | Software Engineer | South San Francisco, CA | https://stripe.com/jobs/search?gh_jid=8421434
 - **stripe** | Software Engineer | Taiwan | https://stripe.com/jobs/search?gh_jid=8318509
+- **stripe** | Software Engineer | South San Francisco, CA  | https://stripe.com/jobs/search?gh_jid=8421452
 - **stripe** | Software Engineer, Backend | Seattle, WA | https://stripe.com/jobs/search?gh_jid=8421091
+- **stripe** | Software Engineer, Backend  | South San Francisco, CA | https://stripe.com/jobs/search?gh_jid=8421387
 - **stripe** | Software Engineer, Bridge | San Francisco, NY, Seattle | https://stripe.com/jobs/search?gh_jid=7277110
 - **stripe** | Software Engineer, Core Infrastructure | Sydney, Australia | https://stripe.com/jobs/search?gh_jid=7975725
-- **stripe** | Software Engineer, Core Technology | South San Francisco, CA | https://stripe.com/jobs/search?gh_jid=8411988
 - **stripe** | Software Engineer, Core Technology | Bangalore | https://stripe.com/jobs/search?gh_jid=7618977
 - **stripe** | Software Engineer, Data Orchestration | N/A | https://stripe.com/jobs/search?gh_jid=7230670
-- **stripe** | Software Engineer, Data Warehouse Analytics | Seattle, WA | https://stripe.com/jobs/search?gh_jid=8411927
 - **stripe** | Software Engineer, Early Career — Immediate Start | Toronto | https://stripe.com/jobs/search?gh_jid=8212517
 - **stripe** | Software Engineer, Experimental Projects | New York City  | https://stripe.com/jobs/search?gh_jid=8394936
 - **stripe** | Software Engineer, Financial Business Insights | Bengaluru, India | https://stripe.com/jobs/search?gh_jid=7543868
 - **stripe** | Software Engineer, Full Stack Atlas | South San Francisco, CA | https://stripe.com/jobs/search?gh_jid=8421000
 - **stripe** | Software Engineer, High Availability and Disaster Recovery | Seattle, WA | https://stripe.com/jobs/search?gh_jid=8197135
-- **stripe** | Software Engineer, Intern | Singapore | https://stripe.com/jobs/search?gh_jid=8130883
 - **stripe** | Software Engineer, Intern | London | https://stripe.com/jobs/search?gh_jid=8130867
+- **stripe** | Software Engineer, Intern | Singapore | https://stripe.com/jobs/search?gh_jid=8130883
 - **stripe** | Software Engineer, Intern  | Bucharest | https://stripe.com/jobs/search?gh_jid=8130807
 - **stripe** | Software Engineer, Intern (Summer or Winter) | Dublin | https://stripe.com/jobs/search?gh_jid=8097801
 - **stripe** | Software Engineer, Intern (Summer) | Toronto | https://stripe.com/jobs/search?gh_jid=8130805
 - **stripe** | Software Engineer, Intern (Summer) | San Francisco, Seattle, New York City | https://stripe.com/jobs/search?gh_jid=8128745
 - **stripe** | Software Engineer, Metronome Infrastructure | Toronto, Vancouver, Canada-Remote | https://stripe.com/jobs/search?gh_jid=8231439
 - **stripe** | Software Engineer, Money Movement  | London | https://stripe.com/jobs/search?gh_jid=7208537
-- **stripe** | Software Engineer, New Grad | Dublin | https://stripe.com/jobs/search?gh_jid=8130881
-- **stripe** | Software Engineer, New Grad | Taiwan | https://stripe.com/jobs/search?gh_jid=8202299
 - **stripe** | Software Engineer, New Grad | San Francisco, Seattle, New York | https://stripe.com/jobs/search?gh_jid=8128744
-- **stripe** | Software Engineer, New Grad | Toronto | https://stripe.com/jobs/search?gh_jid=8157838
-- **stripe** | Software Engineer, New Grad | London | https://stripe.com/jobs/search?gh_jid=8130930
+- **stripe** | Software Engineer, New Grad | Dublin | https://stripe.com/jobs/search?gh_jid=8130881
 - **stripe** | Software Engineer, New Grad | Bucharest | https://stripe.com/jobs/search?gh_jid=8130922
+- **stripe** | Software Engineer, New Grad | London | https://stripe.com/jobs/search?gh_jid=8130930
+- **stripe** | Software Engineer, New Grad | Toronto | https://stripe.com/jobs/search?gh_jid=8157838
+- **stripe** | Software Engineer, New Grad | Taiwan | https://stripe.com/jobs/search?gh_jid=8202299
 - **stripe** | Software Engineer, New Grad - Frontend | Barcelona | https://stripe.com/jobs/search?gh_jid=8130927
 - **stripe** | Software Engineer, Payin | Bengaluru | https://stripe.com/jobs/search?gh_jid=8185012
 - **stripe** | Software Engineer, Payments | N/A | https://stripe.com/jobs/search?gh_jid=8260982
@@ -5414,13 +5416,13 @@
 - **stripe** | Software Engineer, Storage Integrations | Bucharest | https://stripe.com/jobs/search?gh_jid=8231178
 - **stripe** | Software Engineer, Stripe Data Pipeline | Bangalore | https://stripe.com/jobs/search?gh_jid=8209970
 - **stripe** | Software Engineer, Stripe Tax  | Dublin, Ireland | https://stripe.com/jobs/search?gh_jid=8076626
-- **stripe** | Software Engineer, Vulnerability Management | na | https://stripe.com/jobs/search?gh_jid=8384567
 - **stripe** | Software Engineer, Vulnerability Management | US - Remote | https://stripe.com/jobs/search?gh_jid=8089353
+- **stripe** | Software Engineer, Vulnerability Management | na | https://stripe.com/jobs/search?gh_jid=8384567
 - **stripe** | Software Quality Assurance Engineer | Taipei,Taiwan | https://stripe.com/jobs/search?gh_jid=8153331
 - **stripe** | Solution Architect, Metronome (AI Native) | Singapore | https://stripe.com/jobs/search?gh_jid=8338845
 - **stripe** | Solutions Architect, AI | NYC, SF, or Chicago | https://stripe.com/jobs/search?gh_jid=8248509
-- **stripe** | Solutions Architect, Metronome (AI Native) | London | https://stripe.com/jobs/search?gh_jid=8168813
 - **stripe** | Solutions Architect, Metronome (AI Native) | San Francisco | https://stripe.com/jobs/search?gh_jid=8368260
+- **stripe** | Solutions Architect, Metronome (AI Native) | London | https://stripe.com/jobs/search?gh_jid=8168813
 - **stripe** | Solutions Architect, Platforms | Dublin | https://stripe.com/jobs/search?gh_jid=8396176
 - **stripe** | Solutions Architect, Platforms (French Speaking) | Paris | https://stripe.com/jobs/search?gh_jid=8399738
 - **stripe** | Solutions Architect, Platforms (German-Speaking) | LOCATION | https://stripe.com/jobs/search?gh_jid=8336719
@@ -5430,9 +5432,9 @@
 - **stripe** | Staff Data Scientist, Fraud | N/A | https://stripe.com/jobs/search?gh_jid=8323907
 - **stripe** | Staff Full Stack Software Engineer, Link - Consumer Preference | San Francisco, NYC, Seattle | https://stripe.com/jobs/search?gh_jid=8257354
 - **stripe** | Staff Offensive Security Engineer, Proactive threat | Remote - US | https://stripe.com/jobs/search?gh_jid=8399913
-- **stripe** | Staff Security Engineer, Abuse Control | Barcelona | https://stripe.com/jobs/search?gh_jid=8356917
 - **stripe** | Staff Security Engineer, Abuse Control | Dublin | https://stripe.com/jobs/search?gh_jid=8174963
 - **stripe** | Staff Security Engineer, Abuse Control | London | https://stripe.com/jobs/search?gh_jid=8211180
+- **stripe** | Staff Security Engineer, Abuse Control | Barcelona | https://stripe.com/jobs/search?gh_jid=8356917
 - **stripe** | Staff Security Engineer, Abuse Control | Berlin | https://stripe.com/jobs/search?gh_jid=8356916
 - **stripe** | Staff Security Engineer, Abuse Control | Bucharest | https://stripe.com/jobs/search?gh_jid=8356912
 - **stripe** | Startup Products Strategy & Operations, Insights & Analytics | Remote US | https://stripe.com/jobs/search?gh_jid=8234710
@@ -5440,13 +5442,13 @@
 - **stripe** | Strategic Account Executive, Platforms | London | https://stripe.com/jobs/search?gh_jid=8129954
 - **stripe** | Strategic Accounts Sales Leader, AI GTM | San Francisco; New York | https://stripe.com/jobs/search?gh_jid=8212325
 - **stripe** | Strategy & Operations, Infrastructure | Remote US | https://stripe.com/jobs/search?gh_jid=8171095
-- **stripe** | Strategy and Analytics Business Partner | Bangalore | https://stripe.com/jobs/search?gh_jid=8245230
 - **stripe** | Strategy and Analytics Business Partner | Bengaluru | https://stripe.com/jobs/search?gh_jid=7813411
 - **stripe** | Strategy and Analytics Business Partner | Dublin, Ireland | https://stripe.com/jobs/search?gh_jid=8326579
-- **stripe** | Technical Solutions Engineer | Chicago, IL, Seattle, WA | https://stripe.com/jobs/search?gh_jid=7919030
+- **stripe** | Strategy and Analytics Business Partner | Bangalore | https://stripe.com/jobs/search?gh_jid=8245230
 - **stripe** | Technical Solutions Engineer | Remote - US | https://stripe.com/jobs/search?gh_jid=7917880
-- **stripe** | Technical Solutions Engineer | Singapore | https://stripe.com/jobs/search?gh_jid=8368656
+- **stripe** | Technical Solutions Engineer | Chicago, IL, Seattle, WA | https://stripe.com/jobs/search?gh_jid=7919030
 - **stripe** | Technical Solutions Engineer | Seattle, WA, Remote-US | https://stripe.com/jobs/search?gh_jid=7377101
+- **stripe** | Technical Solutions Engineer | Singapore | https://stripe.com/jobs/search?gh_jid=8368656
 - **studentinternships** | Student Internship - AI Assisted Modeling of Energy Storage | Holyoke, Massachusetts, United States | https://job-boards.greenhouse.io/studentinternships/jobs/4456494009
 - **studentinternships** | Student Internship - Market Data Analyst | Holyoke, Massachusetts, United States | https://job-boards.greenhouse.io/studentinternships/jobs/4454673009
 - **studentprogram** | Enterprise Business Intelligence Internship | Redlands, CA | https://job-boards.greenhouse.io/studentprogram/jobs/5246028007
@@ -5546,8 +5548,8 @@
 - **thinkingmachines [ashby]** | Software Engineer, Tinker Infrastructure | San Francisco | https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756
 - **thinkingmachines [ashby]** | Software Engineer, Training Infrastructure | San Francisco | https://jobs.ashbyhq.com/ThinkingMachines/5b2ee0dc-0fe5-4c5d-806d-e171187e460e
 - **thinkingmachines [ashby]** | Software Engineer, Web Crawling | San Francisco | https://jobs.ashbyhq.com/ThinkingMachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc
-- **toast** | Android Software Engineer | Dublin, Ireland | https://careers.toasttab.com/jobs?gh_jid=8333416
 - **toast** | Android Software Engineer | Dublin, Ireland | https://careers.toasttab.com/jobs?gh_jid=8038744
+- **toast** | Android Software Engineer | Dublin, Ireland | https://careers.toasttab.com/jobs?gh_jid=8333416
 - **toast** | Software Engineer II, Consumer | Remote, US | https://careers.toasttab.com/jobs?gh_jid=8164283
 - **toast** | Software Engineer II, International Mid-Market | Dublin, Ireland | https://careers.toasttab.com/jobs?gh_jid=8264379
 - **toast** | Software Engineer II, Support AI | Remote, US  | https://careers.toasttab.com/jobs?gh_jid=8386144
@@ -5789,7 +5791,6 @@
 - **vardaspace** | Site Reliability Internship - Summer 2027 | El Segundo, California, United States | https://job-boards.greenhouse.io/vardaspace/jobs/8198267003
 - **vardaspace** | Spacecraft Systems Engineer, Flight Safety | El Segundo, California, United States | https://job-boards.greenhouse.io/vardaspace/jobs/8206181003
 - **vercel** | DevRel Engineer, Agentic Infrastructure | Hybrid - San Francisco, New York City, Austin | https://job-boards.greenhouse.io/vercel/jobs/6122437004
-- **vercel** | IT Systems Engineer | Hybrid - San Francisco, New York City, Austin | https://job-boards.greenhouse.io/vercel/jobs/6218743004
 - **vercel** | Machine Learning Engineer, Trust & Safety | Hybrid - San Francisco, New York City | https://job-boards.greenhouse.io/vercel/jobs/6208037004
 - **vercel** | Partner Solutions Engineer | Hybrid - San Francisco | https://job-boards.greenhouse.io/vercel/jobs/6201179004
 - **vercel** | Product Security Engineer | Hybrid - San Francisco, New York City | https://job-boards.greenhouse.io/vercel/jobs/6102343004
